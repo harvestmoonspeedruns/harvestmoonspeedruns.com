@@ -10,8 +10,6 @@ abbr: "Puzzle_de_Harvest_Moon"
 # {{page.title}}
 [speedrun.com]({{game.url}})
 
-<div class="float-right"><img src="{{game.boxart}}" alt="{{game.name}} Cover Photo" /></div>
-<div class="clear"></div>
 ## Categories
 
 <table class="category-table">
