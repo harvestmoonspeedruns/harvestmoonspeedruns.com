@@ -1,4 +1,5 @@
 import json
+import collections
 
 import srcomapi, srcomapi.datatypes as dt
 api = srcomapi.SpeedrunCom(); api.debug = 0
@@ -43,21 +44,21 @@ def buildMisc(categories):
 def main():
     games = api.search(srcomapi.datatypes.Game, {"name": "harvest moon"})
 
-    gamesData = []
+    gamesData = {}
 
     for game in games:
         miscCategories = []
 
-        gamesData.append({
+        gamesData[game.abbreviation] = {
             "name": game.name,
             "boxart": game.assets["cover-large"]["uri"],
             "url": game.weblink,
             "abbr": game.abbreviation,
             "categories": [buildCategory(category) for category in game.categories if not category.miscellaneous] + buildMisc([category for category in game.categories if category.miscellaneous])
-        })
+        }
 
-    with open('../_data/games.json', 'w') as file:
-        json.dump(sorted(gamesData, key=lambda k: k['name']), file)
+    with open('_data/games.json', 'w') as file:
+        json.dump(gamesData, file)
 
 
 if __name__ == "__main__":
