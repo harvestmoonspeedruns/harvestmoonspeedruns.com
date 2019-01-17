@@ -6,6 +6,7 @@ def main():
         for game in json.load(file).values():
             basedir = os.path.join("wiki", game["abbr"])
             if not os.path.exists(os.path.join(basedir, "index.md")) or not os.path.exists(os.path.join(basedir, "index.html")):
+                os.makedirs(basedir)
                 with open("bin/_templates/game_index_template.md") as to_copy:
                     s = to_copy.read()
                     s = s.replace("[TITLE]", game["name"])
@@ -16,7 +17,8 @@ def main():
             for category in game["categories"]:
                 directory = os.path.join(basedir, category["abbr"])
                 if not os.path.exists(directory):
-                    os.makedir(directory)
+                    os.makedirs(directory)
+                    open(os.path.join(directory, '.gitkeep'), 'a').close()
 
 if __name__ == "__main__":
     main()
