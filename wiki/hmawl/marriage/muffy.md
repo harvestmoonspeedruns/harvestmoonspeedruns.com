@@ -1,7 +1,7 @@
 ---
 type: "guide"
 category: "marriage"
-game: "awl"
+game: "hmawl"
 layout: hm-wiki-guide
 version: 0.1.0
 ---
