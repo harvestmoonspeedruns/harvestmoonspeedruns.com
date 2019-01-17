@@ -56,7 +56,7 @@ def main():
             "categories": [buildCategory(category) for category in game.categories if not category.miscellaneous] + buildMisc([category for category in game.categories if category.miscellaneous])
         })
 
-    with open('_data/games.json', 'w') as file:
+    with open('../_data/games.json', 'w') as file:
         json.dump(sorted(gamesData, key=lambda k: k['name']), file)
 
 
