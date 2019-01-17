@@ -9,6 +9,14 @@
   text-align: center;
 }
 
+.float-right {
+  float: right;
+}
+
+.clear {
+  clear: both;
+}
+
 .card {
     display: block;
     width: 250px;
@@ -34,4 +42,18 @@
 
   .card-text {
     padding: 2px 16px;
+  }
+
+  .category-table {
+    display: table;
+
+    tr {
+      display: table-cell;
+      vertical-align: top;
+
+      td, th {
+        display: block;
+        text-align: center;
+      }
+    }
   }
