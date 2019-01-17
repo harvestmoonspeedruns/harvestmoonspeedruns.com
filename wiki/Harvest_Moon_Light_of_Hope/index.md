@@ -15,9 +15,9 @@ abbr: "Harvest_Moon_Light_of_Hope"
 <table class="category-table">
     {% for category in game.categories %}
     <tr>
-        <th><a href="/wiki/{{category.abbr}}">{{ category.name }}</a></th>
+        <th><a href="/wiki/{{game.abbr}}/{{category.abbr}}">{{ category.name }}</a></th>
         {% for subcategory in category.subcategories %}
-        <td><a href="/wiki/{{category.abbr}}/{{subcategory.abbr}}">{{ subcategory.name }}</a></td>
+        <td><a href="/wiki/{{game.abbr}}/{{category.abbr}}/{{subcategory.abbr}}">{{ subcategory.name }}</a></td>
         {% endfor %}
     </tr>
     {% endfor %}
