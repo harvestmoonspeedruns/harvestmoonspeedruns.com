@@ -42,7 +42,7 @@ def buildMisc(categories):
     }]
 
 def main():
-    games = api.search(srcomapi.datatypes.Game, {"name": "harvest moon"})
+    games = [dt.Game(api, game) for game in api.get('series/049rd64v/games')]
 
     gamesData = {}
 
