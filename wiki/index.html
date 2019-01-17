@@ -1,0 +1,22 @@
+---
+title: Games
+layout: git-wiki-default
+---
+
+<a class="back" href="/">&larr;</a>
+<h1>Games</h1>
+
+{% for game in site.data.games %}
+<a href="/wiki/{{game.abbr}}">
+  <div class="card">
+    <div class="card-container">
+      <img src="{{game.boxart}}" alt="Avatar" style="width:100%">
+      <div class="card-text">
+        <h4><b>{{game.name}}</b></h4>
+        <p class="center"><a href="{{game.url}}" target="_blank">speedrun.com</a> | <a href="/wiki/tools/{{game.abbr}}" target="_blank">resources</a></p>
+      </div>
+    </div>
+  </div>
+</a>
+{% endfor %}
+<div style="clear: both;"></div>
