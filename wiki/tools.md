@@ -1,3 +1,3 @@
 # Tools
 
-* [A Wonderful Life Affection Calculator](http://hmawl-affection.harvestmoonspeedruns.com)
+* [A Wonderful Life Affection Calculator](https://hmawl-affection.harvestmoonspeedruns.com)
