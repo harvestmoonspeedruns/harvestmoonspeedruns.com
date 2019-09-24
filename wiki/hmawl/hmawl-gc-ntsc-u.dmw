@@ -1,0 +1,769 @@
+{
+    "watchList": [
+        {
+            "address": "8166C6C0",
+            "baseIndex": 0,
+            "label": "Game Clock 600/game-minute",
+            "typeIndex": 2,
+            "unsigned": true
+        },
+        {
+            "groupEntries": [
+                {
+                    "address": "81085B44",
+                    "baseIndex": 0,
+                    "label": "Item in Hand",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "81085A14",
+                    "baseIndex": 0,
+                    "label": "Hunger Timer 600/s",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "81085A04",
+                    "baseIndex": 0,
+                    "label": "Stamina",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "81085898",
+                    "baseIndex": 0,
+                    "label": "Money",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8109E110",
+                    "baseIndex": 0,
+                    "label": "Current room",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8166C920",
+                    "baseIndex": 0,
+                    "label": "North (m)",
+                    "typeIndex": 3,
+                    "unsigned": false
+                },
+                {
+                    "address": "8166C928",
+                    "baseIndex": 0,
+                    "label": "East (m)",
+                    "typeIndex": 3,
+                    "unsigned": false
+                },
+                {
+                    "address": "8166C924",
+                    "baseIndex": 0,
+                    "label": "Elevation (m)",
+                    "typeIndex": 3,
+                    "unsigned": false
+                },
+                {
+                    "groupEntries": [
+                        {
+                            "address": "81073ED8",
+                            "baseIndex": 0,
+                            "label": "1st inventory item type",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "81073EDA",
+                            "baseIndex": 0,
+                            "label": "1st inventory item count",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "81073EDC",
+                            "baseIndex": 0,
+                            "label": "2nd inventory item type",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "81073EDE",
+                            "baseIndex": 0,
+                            "label": "2nd inventory item count",
+                            "typeIndex": 0,
+                            "unsigned": true
+                        },
+                        {
+                            "address": "81073EE0",
+                            "baseIndex": 0,
+                            "label": "3rd inventory item type",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "81073EE2",
+                            "baseIndex": 0,
+                            "label": "3rd inventory item count",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        }
+                    ],
+                    "groupName": "Inventory"
+                },
+                {
+                    "address": "81086470",
+                    "baseIndex": 0,
+                    "label": "?",
+                    "typeIndex": 2,
+                    "unsigned": false
+                }
+            ],
+            "groupName": "Player"
+        },
+        {
+            "groupEntries": [
+                {
+                    "address": "8108898D",
+                    "baseIndex": 0,
+                    "label": "Celia Heart Points",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "address": "80F2068C",
+                    "baseIndex": 0,
+                    "label": "Celia North (m)",
+                    "typeIndex": 3,
+                    "unsigned": false
+                },
+                {
+                    "address": "80F20694",
+                    "baseIndex": 0,
+                    "label": "Celia East (m)",
+                    "typeIndex": 3,
+                    "unsigned": false
+                },
+                {
+                    "address": "80F20690",
+                    "baseIndex": 0,
+                    "label": "Celia Elevation (m)",
+                    "typeIndex": 3,
+                    "unsigned": false
+                },
+                {
+                    "address": "8109E118",
+                    "baseIndex": 0,
+                    "label": "Celia current room",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8109E184",
+                    "baseIndex": 0,
+                    "label": "Vesta current room",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8109E188",
+                    "baseIndex": 0,
+                    "label": "Marlin current room",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "810864D8",
+                    "baseIndex": 3,
+                    "label": "Celia Greeting flag",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "address": "810864DA",
+                    "baseIndex": 3,
+                    "label": "Celia Loved flag (1)",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "address": "810864E0",
+                    "baseIndex": 3,
+                    "label": "Celia Egg (8) and Fish (64) flag",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "address": "81086507",
+                    "baseIndex": 3,
+                    "label": "Celia Anecdote (64) flag",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "address": "8109BD58",
+                    "baseIndex": 0,
+                    "label": "Chicken happiness",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "groupEntries": [
+                        {
+                            "address": "810864AC",
+                            "baseIndex": 0,
+                            "label": "Celia's bedtime",
+                            "typeIndex": 2,
+                            "unsigned": false
+                        },
+                        {
+                            "groupEntries": [
+                                {
+                                    "address": "80FECD47",
+                                    "baseIndex": 0,
+                                    "label": "downstairs 42, upstairs 43, outside 1",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "80FECD49",
+                                    "baseIndex": 0,
+                                    "label": "in-house 2, spring 6, spring 12, pond 7, town 27, mansion 15",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "8166D698",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "8166D699",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "8166D69A",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "8166D69B",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "8166D6A8",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "8166D6A9",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "8166D6AA",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "8166D6AB",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                }
+                            ],
+                            "groupName": "Other changes with C schedule"
+                        },
+                        {
+                            "groupEntries": [
+                                {
+                                    "address": "80F20670",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "80F20671",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "80F20672",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "80F20673",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "80F2067A",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "80F2067B",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "80F206A7",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "80F2075B",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "80F20793",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "80F207C8",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "80F207C9",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "80F207CA",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "80F207CB",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "80F209A4",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "80F209B8",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "80F209BC",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "80F209C4",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "80F209C5",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "80F209C8",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "80F209D0",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "80F20B27",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                }
+                            ],
+                            "groupName": "80F2 C schedule"
+                        },
+                        {
+                            "groupEntries": [
+                                {
+                                    "address": "8108648C",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "8108648D",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "8108648E",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "81086491",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "81086495",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "81086497",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "81086499",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "810864A6",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "810864A7",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "810864AD",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "810864AE",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                },
+                                {
+                                    "address": "810864AF",
+                                    "baseIndex": 0,
+                                    "label": "No label",
+                                    "typeIndex": 0,
+                                    "unsigned": true
+                                }
+                            ],
+                            "groupName": "810864 C schedule"
+                        }
+                    ],
+                    "groupName": "Celia Schedule"
+                },
+                {
+                    "groupEntries": [
+                        {
+                            "address": "810864E1",
+                            "baseIndex": 3,
+                            "label": "Celia Food (16) and mushroom (2) flag",
+                            "typeIndex": 0,
+                            "unsigned": true
+                        },
+                        {
+                            "address": "810864DE",
+                            "baseIndex": 3,
+                            "label": "Celia Crop flag (128)",
+                            "typeIndex": 0,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "80F206A4",
+                            "baseIndex": 0,
+                            "label": "No label",
+                            "typeIndex": 2,
+                            "unsigned": true
+                        },
+                        {
+                            "address": "80F20758",
+                            "baseIndex": 0,
+                            "label": "No label",
+                            "typeIndex": 2,
+                            "unsigned": true
+                        },
+                        {
+                            "address": "8109E118",
+                            "baseIndex": 0,
+                            "label": "No label",
+                            "typeIndex": 2,
+                            "unsigned": true
+                        }
+                    ],
+                    "groupName": "Other Celia"
+                }
+            ],
+            "groupName": "Celia"
+        },
+        {
+            "groupEntries": [
+                {
+                    "address": "810889AD",
+                    "baseIndex": 0,
+                    "label": "Muffy Heart Points",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "address": "810865FE",
+                    "baseIndex": 0,
+                    "label": "Muffy Loved Gift flag (1)",
+                    "typeIndex": 0,
+                    "unsigned": true
+                },
+                {
+                    "address": "8108660F",
+                    "baseIndex": 0,
+                    "label": "Muffy Liked Gift flag (0x20)",
+                    "typeIndex": 0,
+                    "unsigned": true
+                },
+                {
+                    "address": "81086603",
+                    "baseIndex": 0,
+                    "label": "Muffy Neutral Gift flag (4)",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "address": "8108662B",
+                    "baseIndex": 0,
+                    "label": "Muffy Conversation flag (0x40, then 0xC0)",
+                    "typeIndex": 0,
+                    "unsigned": false
+                }
+            ],
+            "groupName": "Muffy"
+        },
+        {
+            "groupEntries": [
+                {
+                    "address": "810889CD",
+                    "baseIndex": 0,
+                    "label": "Nami Heart Points",
+                    "typeIndex": 0,
+                    "unsigned": false
+                },
+                {
+                    "address": "80F1CA8C",
+                    "baseIndex": 0,
+                    "label": "Nami North (m)",
+                    "typeIndex": 3,
+                    "unsigned": true
+                },
+                {
+                    "address": "80F1CA94",
+                    "baseIndex": 0,
+                    "label": "Nami East (m)",
+                    "typeIndex": 3,
+                    "unsigned": false
+                },
+                {
+                    "address": "80F1CA90",
+                    "baseIndex": 0,
+                    "label": "Nami Elevation (m)",
+                    "typeIndex": 3,
+                    "unsigned": false
+                }
+            ],
+            "groupName": "Nami"
+        },
+        {
+            "groupEntries": [
+                {
+                    "address": "8109BDE8",
+                    "baseIndex": 0,
+                    "label": "Chicken put down flag (1)",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "groupEntries": [
+                        {
+                            "address": "8109CCA4",
+                            "baseIndex": 0,
+                            "label": "Sheep happiness",
+                            "typeIndex": 2,
+                            "unsigned": true
+                        },
+                        {
+                            "address": "8109CAF4",
+                            "baseIndex": 0,
+                            "label": "Cow happiness",
+                            "typeIndex": 2,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "8109CCA8",
+                            "baseIndex": 0,
+                            "label": "Cow2 happiness",
+                            "typeIndex": 2,
+                            "unsigned": true
+                        },
+                        {
+                            "address": "8109BDFC",
+                            "baseIndex": 0,
+                            "label": "Chi1 prev nuzzle time",
+                            "typeIndex": 2,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "8109BF0C",
+                            "baseIndex": 0,
+                            "label": "Chi2 happiness",
+                            "typeIndex": 2,
+                            "unsigned": true
+                        },
+                        {
+                            "address": "8109BF9C",
+                            "baseIndex": 0,
+                            "label": "Chi2 put down flag (1)",
+                            "typeIndex": 2,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "8109C0C0",
+                            "baseIndex": 0,
+                            "label": "Chi3 happiness",
+                            "typeIndex": 2,
+                            "unsigned": true
+                        },
+                        {
+                            "address": "8109C150",
+                            "baseIndex": 0,
+                            "label": "Chi3 put down flag (1)",
+                            "typeIndex": 2,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "802FC242",
+                            "baseIndex": 0,
+                            "label": "Dog anger count",
+                            "typeIndex": 1,
+                            "unsigned": false
+                        },
+                        {
+                            "address": "80A8D1DC",
+                            "baseIndex": 0,
+                            "label": "Dog happiness",
+                            "typeIndex": 0,
+                            "unsigned": true
+                        }
+                    ],
+                    "groupName": "Other animals"
+                }
+            ],
+            "groupName": "Animals"
+        },
+        {
+            "groupEntries": [
+                {
+                    "address": "8109E160",
+                    "baseIndex": 0,
+                    "label": "Gustafa current room",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8109E17C",
+                    "baseIndex": 0,
+                    "label": "Griffin current room",
+                    "typeIndex": 2,
+                    "unsigned": false
+                },
+                {
+                    "address": "8109E124",
+                    "baseIndex": 0,
+                    "label": "Murrey current room",
+                    "typeIndex": 2,
+                    "unsigned": false
+                }
+            ],
+            "groupName": "Other Characters"
+        }
+    ]
+}
