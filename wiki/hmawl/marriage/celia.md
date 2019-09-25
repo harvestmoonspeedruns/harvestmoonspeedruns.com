@@ -14,7 +14,7 @@ Some data on this page was obtained by using [Dolphin Memory Engine](https://git
 
 - [.dmw file](/wiki/hmawl/hmawl-gc-ntsc-u.dmw) (GameCube, NTSC-U)
 
-Refer to [Items and Locations](/wiki/hmawl/items-and-locations.md) for their specific memory values.
+Refer to [Items and Locations](/wiki/hmawl/items-and-locations) for their specific memory values.
 
 ## Route
 
