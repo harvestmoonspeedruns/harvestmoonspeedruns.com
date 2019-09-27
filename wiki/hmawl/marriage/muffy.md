@@ -47,15 +47,15 @@ version: 0.1.0
 
 ## HEART COUNTING
 
-1 red heart = 1 point
-2 red hearts = 7/8 points
-3 red hearts = 12 points
-4 red hearts = 15/16 points
+* 1 red heart = 1 point
+* 2 red hearts = 7/8 points
+* 3 red hearts = 12 points
+* 4 red hearts = 15/16 points
 
 ## POINTS PER ITEM
 
-Giving her a flower = 0.5/1 point
-Giving her milk = 0.5 point
-Talking to her = 1 point
-Coin/Moon Ore = 1 point
-Heart event = 1 point
+* Giving her a flower = 0.5/1 point
+* Giving her milk = 0.5 point
+* Talking to her = 1 point
+* Coin/Moon Ore = 1 point
+* Heart event = 1 point
