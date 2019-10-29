@@ -86,7 +86,7 @@ Refer to [Items and Locations](/wiki/hmawl/items-and-locations) for their specif
 		- Gifts +6
 		- Go home
 	- 1900 happ
-- SP 8, ~11:10 = 55 (25% because everyone needs to be downstairs)
+- SP 8, ~11:10 = 55
 	- Look for Van
 	- Go to farm
 		- Gifts +7
@@ -108,7 +108,7 @@ Refer to [Items and Locations](/wiki/hmawl/items-and-locations) for their specif
 
 ## Heart Points (All Bachelorettes)
 
-- Counts from 0 to 100 heart points, 20 per heart.
+- Each bachelorette has up to 100 heart points, 20 per heart.
 	- One red heart is 20-39 points
 	- Two is 40-59
 	- Three is 60-79
@@ -117,7 +117,7 @@ Refer to [Items and Locations](/wiki/hmawl/items-and-locations) for their specif
 	- Proposing below 80 doesn’t incur a penalty the first time, but subsequent sub-80 proposals are -10 each.
 	- Points are not affected by proposing to other bachelorettes. (Nor, seemingly, any interaction with other people.)
 
-- Every day she accepts one gift or conversation in each category.
+- Every day she can accept one gift or conversation in each category.
 	- All categories reset when she wakes up.
 
 ## Heart Points (Celia)
@@ -141,7 +141,7 @@ Points | Category | Note
 +1 | Anecdote | (Only available indoors. Earned after either "Vesta's vegetables are great, you know." or "My room is the loft, but I like it.")
 
 ### Heart Events
-All of these events require sunny daytime.
+All of Celia's events require sunny daytime.
 
 Points | Requirement | Trigger | Description | Best Choices | You Warp To | She Warps To
 ---: | ---: | --- | --- | --- | --- | ---
@@ -150,9 +150,27 @@ Points | Requirement | Trigger | Description | Best Choices | You Warp To | She 
 +5 | 40+ points | Exit your house | Don't Move | Default choices | Springs | Path to Springs (228,167)
 +10 | 60+ points | Enter Vesta’s house when Celia is downstairs and has been in the same room as Vesta and Marlin since passing 60 points. (They need to have "discussed" it.) | Arranged Marriage | Alt choice, then default choices | Springs | Bridge (171,147)
 
-### Animal Happiness
+### Bonus Points
 
-Celia is unique in that she gains heart points from animal happiness. Points are calculated when Celia wakes up every day.
+Bonus points are heart points which are re-calculated when she wakes up every morning.
+
+#### Farm Work
+
+Common to Celia and Muffy: you earn bonus points from the work of doing chores. Each 100 work corresponds to +1 bonus point.
+
+- Work amounts
+	- 1 per square watered/hoed or grass cut
+	- 3 per seed planted
+	- 3 per fodder put in a trough
+		- none for simply taking it out of the silo
+	- 7 for filling any water can (takes 3 seconds)
+	- 9 for milking a cow
+		- 4 for failed milking
+		- none for talking or nuzzling
+
+#### Animal Happiness
+
+Unique to Celia: you earn bonus points from the happiness of your animals.
 
 - +10 is earned for the cow’s initial happiness of 1000. (Dropping to 999 or less loses all 10.)
 - +1 is earned for each multiple of happiness of the happiest animal only.
@@ -160,9 +178,9 @@ Celia is unique in that she gains heart points from animal happiness. Points are
 	- For a cow, each 30 above the default 1000.
 - Points are lost if happiness drops below the levels where they were earned.
 
-A heart emote from the animal indicates that happiness has increased. Happiness cannot go negative.
+A heart emote from the animal indicates that happiness has increased. Happiness cannot drop below zero. Since the happiness of a cow or chicken is virtually unlimited (32-bit signed integer), this is an attractive place to look for glitches.
 
-#### Cow Actions
+##### Cow Actions
 
 Happiness | Action | Cooldown
 ---: | --- | ---
@@ -171,7 +189,7 @@ Happiness | Action | Cooldown
 0 | Ignored for the day | N/A
 -20 | Show Dog | Instant
 
-#### Chicken Actions
+##### Chicken Actions
 
 Happiness | Action | Cooldown
 ---: | --- | ---
@@ -183,7 +201,7 @@ Happiness | Action | Cooldown
 
 ## Schedule
 
-(You can use the [Map](/assets/images/map.jpg) to pinpoint in-game coordinates.)
+(This [Map](/assets/images/map.jpg) helps to locate in-game coordinates.)
 
 Here are Celia's standard paths:
 
