@@ -30,24 +30,25 @@
 ## Route
 - Sleep once
 - Milk Cow
-- Grab 3 Fodder
+- Grab 12 Fodder
 - Sell Cow
-- Pick 7 Toy Flowers around knoll
 - Go to Rock's room
-- Give flower
-- Milk Cow
+- Give fodder
+- Grab Mogwort by house
 - Sleep 4 times
 - Go to Inn (Heart Event 1?)
-- Give flower
-- Sleep until Summer 1 or keep giving flowers until Heart Event 1
-- Sleep until after 3pm Summer 1
+- Give fodder
+- Sleep and repeat if no HE1 or go to Summer 1. 
+  - Gifting when in room 11-1, or before 1:20 at Waterfall exit. 
+- Sleep until after 3pm Sunny Summer day
 - Leave House (Heart Event 2?)
+- Sleep and repeat if no HE2 or go to Fall 1. 
+  - Gifting when in room 11-1, or before 1:20 at Waterfall exit. 
 - Grab Blue Feather
-- Give flower
-- Sleep until Fall 1 9am-12pm
+- Sleep until Sunny Fall day 9am-12pm
 - Leave Farm (Heart Event 3?)
-- Sleep 6 times (After 7pm)
-- Enter Inner Inn (Heart Event 4)
+- Sleep and repeat if no HE3 or go to Winter 1. 
+  - Gifting when in room 11-1, or before 1:20 at Waterfall exit. 
+- Enter Inner Inn after 7pm when Ruby and Tim are home (Heart Event 4)
 - Give flower
-
-
+- Give Blue Feather
