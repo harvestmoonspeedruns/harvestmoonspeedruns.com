@@ -45,7 +45,7 @@
 - Sleep and repeat if no HE2 or go to Fall 1. 
   - Gifting when in room 11-1, or before 1:20 at Waterfall exit. 
 - Grab Blue Feather
-- Sleep until Sunny Fall day 9am-12pm
+- Sleep until Sunny Fall day 11am-1pm
 - Leave Farm (Heart Event 3?)
 - Sleep and repeat if no HE3 or go to Winter 1. 
   - Gifting when in room 11-1, or before 1:20 at Waterfall exit. 
