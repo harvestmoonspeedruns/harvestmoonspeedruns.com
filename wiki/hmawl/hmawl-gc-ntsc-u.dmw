@@ -1302,6 +1302,34 @@
                     "label": "Murrey current room",
                     "typeIndex": 2,
                     "unsigned": false
+                },
+                {
+                    "address": "80F0C244",
+                    "baseIndex": 0,
+                    "label": "Hugh current room",
+                    "typeIndex": 2,
+                    "unsigned": true
+                },
+                {
+                    "address": "80F0A63C",
+                    "baseIndex": 0,
+                    "label": "Hugh North (m)",
+                    "typeIndex": 3,
+                    "unsigned": true
+                },
+                {
+                    "address": "80F0A644",
+                    "baseIndex": 0,
+                    "label": "Hugh East (m)",
+                    "typeIndex": 3,
+                    "unsigned": true
+                },
+                {
+                    "address": "80F0A640",
+                    "baseIndex": 0,
+                    "label": "Hugh Elevation (m)",
+                    "typeIndex": 3,
+                    "unsigned": true
                 }
             ],
             "groupName": "Other Characters"
