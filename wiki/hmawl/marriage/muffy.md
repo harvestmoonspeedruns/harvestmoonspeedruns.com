@@ -61,7 +61,7 @@ Some data on this page was obtained by using [Dolphin Memory Engine](https://git
 
 ## Heart Points (Muffy)
 
-Muffy begins Spring 1 with 18 points. What causes this is not yet known.
+Muffy begins Spring 1 with 18 points (see [Jealousy Penalty](#jealousy-penalty)).
 
 ### Gifts
 
@@ -110,6 +110,15 @@ Common to Celia and Muffy: you earn bonus points from the work of doing chores. 
 	- 9 for milking a cow
 		- 4 for failed milking
 		- none for talking or nuzzling
+
+#### Jealousy Penalty
+
+Unique to Muffy, but Celia has a similar penalty. You lose part of the inital 18 point bonus if you interact enough times with a group of townsfolk.
+
+- -10 points if you have >15 interactions with members of only one group.
+- -18 (total) if you have >15 interactions with neighbors and >15 interactions with young women. 
+	- Neigbors: Grant, Wally, Kate, Chris
+	- Young women: Celia, Nami, Flora, Chris
 
 #### Lifetime Interactions
 

@@ -67,7 +67,7 @@ Refer to [Items and Locations](/wiki/hmawl/items-and-locations) for their specif
 		- Trigger heart event Shopping +5
 		- Go home
 	- 950 happ
-- SP 5 and 6, ~2:00p = 29
+- SP 5, ~2:00p = 29
 	- Optional nuzzle SP 5
 	- If she’s inside on SP 5 or 6, you can theoretically stop nuzzling because of the anecdote point. Normally you need to nuzzle on SP 6, 7, and 8.
 	- Go to farm
@@ -80,14 +80,14 @@ Refer to [Items and Locations](/wiki/hmawl/items-and-locations) for their specif
 		- Gifts +6 (or +7 and save three nuzzles)
 		- Go home
 	- 1550 happ
-- SP 7, ~9:40 = 43
+- SP 7, ~10:29 = 43
 	- Trigger heart event Don’t Move +5
 		- regardless of time, C warps to (167,228)
 		- Gifts +6
 		- Go home
 	- 1900 happ
 - SP 8, ~11:10 = 55
-	- Look for Van
+	- Look for Van (to skip the cutscene if needed)
 	- Go to farm
 		- Gifts +7
 		- Trigger heart event Arranged Marriage +10
@@ -121,7 +121,7 @@ Refer to [Items and Locations](/wiki/hmawl/items-and-locations) for their specif
 	- All categories reset when she wakes up.
 
 ## Heart Points (Celia)
-Celia begins Spring 1 with 10 points (see [Animal Happiness](#animal-happiness)).
+Celia begins Spring 1 with 10 points (see [Jealousy Penalty](#jealousy-penalty)).
 
 ### Gifts
 
@@ -167,6 +167,33 @@ Common to Celia and Muffy: you earn bonus points from the work of doing chores. 
 	- 9 for milking a cow
 		- 4 for failed milking
 		- none for talking or nuzzling
+
+#### Jealousy Penalty
+
+Unique to Celia, but Muffy has a similar penalty. You lose the initial 10 point bonus if you interact enough times with other young women.
+
+- -10 points if the other young women > 15 combined interactions
+	- includes Muffy, Nami, Flora, Chris
+
+#### Hugh Friendship
+
+Unique to Celia: you earn points from befriending Hugh. Each gift to Hugh converts to +1 heart point when Celia wakes up. (-1 for being anywhere below 17 friendship. The default is 50 friendship.)
+
+- Gifts to Hugh
+	- +1 favorite item (up to 3 per day)
+		- any milk
+		- maybe others?
+	- +1 "so good" item (up to 3 per day)
+		- any coin
+		- any wool
+		- Moon ore (not sugar ore)
+		- ball
+		- blocks
+		- maybe others?
+	- doesn't accept any egg
+	- doesn't accept tomato, or probably any vegetable
+	- doesn't accept goddess drop, or probably any flower
+	- doesn't accept fodder
 
 #### Animal Happiness
 
