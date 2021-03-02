@@ -35,6 +35,12 @@ SE                     | 0x43590e27 | 0x430011fe | 217.05 | 128.07
 
 18 Bar
 
+20 Inn Entrance
+
+22 Inn Kitchen
+
+25 Inn Upstairs
+
 27 Villa Romana's bedroom
 28 Villa Sebastian's bedroom
 29 Villa kitchen
