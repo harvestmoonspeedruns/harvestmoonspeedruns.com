@@ -49,11 +49,11 @@ Refer to [Items and Locations](/wiki/hmawl/items-and-locations) for their specif
 	- Order chicken
 - SP 2, ~11:07
 	- Get mugwort
-	- Let out cow
+	- Don't let out cow (cow has never died in an inkling16 run, if you want to be extra careful then you can let the cow out)
 	- Go to farm
 		- Eat mugwort
-		- five flowers
-		- Gifts +4
+		- 6 flowers (4 or 5 if you don't have time, pick up remaining at goddess pond on day 7)
+		- Gifts +4 (don't change rooms after giving gifts)
 		- Noon, chicken warp home 1p
 	- 350 happ
 - SP 3
@@ -83,6 +83,7 @@ Refer to [Items and Locations](/wiki/hmawl/items-and-locations) for their specif
 - SP 7, ~10:29 = 43
 	- Trigger heart event Don’t Move +5
 		- regardless of time, C warps to (167,228)
+		- Pick up toy flower (you should have one flower in hand and 2 in inventory at this point, pick up 1 or 2 additional if you didn't get them on day 2)
 		- Gifts +6
 		- Go home
 	- 1900 happ
