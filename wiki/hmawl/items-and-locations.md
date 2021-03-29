@@ -35,12 +35,22 @@ SE                     | 0x43590e27 | 0x430011fe | 217.05 | 128.07
 
 18 Bar
 
+20 Inn Entrance
+
+22 Inn Kitchen
+
+25 Inn Upstairs
+
 27 Villa Romana's bedroom
 28 Villa Sebastian's bedroom
 29 Villa kitchen
 30 Villa upstairs tea room
 31 Villa entryway
 32 Villa upstairs hallway
+33 Wally's house downstairs
+34 Wally's house upstairs
+
+37 Nina's house
 
 42 Vesta's storeroom
 43 Vesta's downstairs
