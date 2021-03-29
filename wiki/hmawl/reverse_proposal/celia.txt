@@ -1,0 +1,11 @@
+---
+type: "guide"
+category: "reverse_proposal"
+game: "hmawl"
+layout: hm-wiki-guide
+version: 0.1.0
+---
+
+# Celia
+
+Follow the Single% Guide, but accept Celia's proposal at the end of the year instead of denying it. 
