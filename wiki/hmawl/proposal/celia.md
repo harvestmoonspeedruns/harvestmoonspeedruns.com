@@ -194,7 +194,7 @@ Unique to Celia: you earn points from befriending Hugh. Each gift to Hugh conver
 	- doesn't accept tomato, or probably any vegetable
 	- doesn't accept goddess drop, or probably any flower
 	- doesn't accept fodder
-
+	
 #### Animal Happiness
 
 Unique to Celia: you earn bonus points from the happiness of your animals.

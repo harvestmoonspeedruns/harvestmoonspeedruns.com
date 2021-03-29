@@ -45,16 +45,22 @@ SE                     | 0x43590e27 | 0x430011fe | 217.05 | 128.07
 24 Hotel upstairs right room
 25 Hotel upstairs hallway
 
+20 Inn Entrance
+
+22 Inn Kitchen
+
+25 Inn Upstairs
+
 27 Villa Romana's bedroom
 28 Villa Sebastian's bedroom
 29 Villa kitchen
 30 Villa upstairs tea room
 31 Villa entryway
 32 Villa upstairs hallway
-33 West town house downstairs
-34 West town house upstairs
+33 Wally's house (West town house) downstairs
+34 Wally's house (West town house) upstairs
 
-37 East town house
+37 Nina's house (East town house)
 
 39 Carter's tent
 40 Digsite
