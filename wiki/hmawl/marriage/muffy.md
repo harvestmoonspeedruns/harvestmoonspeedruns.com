@@ -18,7 +18,7 @@ Some data on this page was obtained by using [Dolphin Memory Engine](https://git
 
 - RNG Gotchas
 	- Muffy must be indoors to earn conversation points on SP 1 and SP 2. ~50% success.
-	- Muffy must be in town to trigger the third heart event on SU 2. ~20% success.
+	- Muffy must be in town to trigger the third heart event on SU 1. ~20% success.
 
 #### Current Fastest Route
 
