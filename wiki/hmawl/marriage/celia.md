@@ -49,7 +49,7 @@ Refer to [Items and Locations](/wiki/hmawl/items-and-locations) for their specif
 	- Order chicken
 - SP 2, ~11:07
 	- Get mugwort
-	- Don't let out cow (cow has never died in an inkling16 run, if you want to be extra careful then you can let the cow out)
+	- Let out cow (cow will occasionally die late in the run if you keep it inside)
 	- Go to farm
 		- Eat mugwort
 		- 6 flowers (4 or 5 if you don't have time, pick up remaining at goddess pond on day 7)
