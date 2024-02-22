@@ -24,3 +24,4 @@ abbr: "hmsth"
 </table>
 
 ## StH Basics
+[Affection](basics/affection.md)
