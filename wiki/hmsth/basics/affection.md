@@ -28,7 +28,9 @@ Because the Goddess questions are only available on a fresh file, they can only 
 
 ## Introductions
 
-An **introduction** is the first interaction with a given villager in a given year. Because New Game+ "resets the timeline" in StH, all villagers will start again at 0 affection and treat the player as if they had never met. The introduction boost varies for every villager and can also vary depending on whether the player is holding an item during this first interaction, called a **gift intro**; a few villagers gain no extra boost from the gift intro as compared with the normal intro (Dia, Kurt, Parsley, and Ronald). The introduction boosts of all villagers are given below.
+An **introduction** is the first interaction with a given villager in a given year. Because New Game+ "resets the timeline" in StH, all villagers will start again at 0 affection and treat the player as if they had never met. The introduction boost varies for every villager and can also vary depending on whether the player is holding an item during this first interaction, called a **gift intro**; a few villagers gain no extra boost from the gift intro as compared with the normal intro (Dia, Kurt, Parsley, and Ronald). The introduction counts as the conversation boost for the day (but see the "Doubletalk" section below).
+
+The introduction boosts for all villagers are given below.
 
 
 | Villager | Intro | Gift Intro |
