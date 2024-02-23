@@ -1,6 +1,6 @@
 # StH Affection
 
-The affection system in StH is similar to other early HM titles, but it also has its fair share of intricacies, especially regarding the conversation system. This page will cover the basics of **introduction**, **conversation**, and **gift** boosts, as well as affection boosts from the **Harvest Goddess questions** and certain **cutscenes**.
+The affection system in StH is similar to other early HM titles, but it also has its fair share of intricacies, especially regarding the conversation system. This page will cover the basics of **introduction**, **conversation**, and **gift** boosts, as well as affection boosts from the **Harvest Goddess questions** and certain **cutscenes**. As a rule, StH limits each villager to **one gift and one conversation per day**, but there are exceptions which will be discussed below.
 
 ## Goddess Questions
 
@@ -28,7 +28,7 @@ Because the Goddess questions are only available on a fresh file, they can only 
 
 ## Introductions
 
-An **introduction** is the first interaction with a given villager in a given year. Because New Game+ "resets the timeline" in StH, all villagers will start again at 0 affection and treat the player as if they had never met. The introduction boost varies for every villager and can also vary depending on whether the player is holding an item during this first interaction, called a **gift intro**. The introduction boosts of all villagers are given below.
+An **introduction** is the first interaction with a given villager in a given year. Because New Game+ "resets the timeline" in StH, all villagers will start again at 0 affection and treat the player as if they had never met. The introduction boost varies for every villager and can also vary depending on whether the player is holding an item during this first interaction, called a **gift intro**; a few villagers gain no extra boost from the gift intro as compared with the normal intro (Dia, Kurt, Parsley, and Ronald). The introduction boosts of all villagers are given below.
 
 
 | Villager | Intro | Gift Intro |
@@ -51,5 +51,11 @@ An **introduction** is the first interaction with a given villager in a given ye
 | Tim | 12 | 14 |
 | Wallace | 10 | 12 |
 | Woody | 10 | 12 |
+
+For a gift intro, the player may choose to hold *any item whatsoever*, whether or not it is a liked or disliked gift for the villager in question. If it is a liked gift, the villager will take the item from the player, as they would for a normal gift interaction, and this will count as the daily gift. Interestingly, if it is a disliked gift, the gift intro boost will still be granted, but the villager will not take the item from the player, meaning that **it will not count as the daily gift**, so the villager can still be gifted that day on top of the gift intro boost. As all villagers dislike weeds, this is commonly called a **weed intro**, since it is easiest to perform with a weed, but other items will work depending on the villager.
+
+## Practical Applications
+
+
 
 
