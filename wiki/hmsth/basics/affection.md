@@ -28,3 +28,7 @@ Because the Goddess questions are only available on a fresh file, they can only 
 
 ## Introductions
 
+An **introduction** is the first interaction with a given villager in a given year. Because New Game+ "resets the timeline" in StH, all villagers will start again at 0 affection and treat the player as if they had never met. The introduction boost varies for every villager and can also vary depending on whether the player is holding an item during this first interaction, called a **gift intro**. The introduction boosts of all villagers are as follows:
+
+| Villager | Intro | Gift Intro |
+|----------|-------|------------|
