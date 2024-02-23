@@ -85,8 +85,8 @@ The standard gift boost in StH is +4. There are very few disliked gifts, so most
 
 Note: Berry = Very Berry, Blueberry, Cranberry; M. Herb = Medicinal Herb; Flower = Moondrop Flower, Pink-Cat-Mint Flower
 
-<sup>1</sup> +6 from Blueberries if AP > 40;
-<sup>2</sup> +6 from Cranberries;
+<sup>1</sup> +6 from Blueberry if AP > 40;
+<sup>2</sup> +6 from Cranberry;
 <sup>3</sup> +6 from Pink-Cat-Mint Flower;
 <sup>4</sup> +4 from all berries if AP > 20;
 <sup>5</sup> +6 if AP > 20;
