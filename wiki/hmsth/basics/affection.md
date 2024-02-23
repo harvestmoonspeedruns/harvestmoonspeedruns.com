@@ -40,4 +40,8 @@ An **introduction** is the first interaction with a given villager in a given ye
 | Gwen | 12 | 14 |
 | Joe | 8 | 10 |
 | Kurt | 10 | 10 |
-|
+| Louis | 12 | 14 |
+| Lyla | 10 | 12 |
+| Martha | 10 | 12 |
+| 
+
