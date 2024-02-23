@@ -1,10 +1,9 @@
 @import "fonts";
 @import "rouge-github";
 @import "w3.scss";
-@import "hm-wiki-style.scss";
 
 body {
-  background-color: #fff;
+  /* background-color: #fff; */
   padding: 50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #727272;
@@ -384,4 +383,18 @@ screen and (max-width: 480px) {
   background-image: url("../images/external-link-ltr-icon.png");
   background-image: linear-gradient(transparent, transparent), url("../images/external.svg");
   padding-right: 13px;
+}
+
+
+/* 
+  dark mode
+  https://darkmodejs.learn.uno/#debug 
+*/
+.darkmode-layer, .darkmode-toggle {
+  z-index: 500;
+}
+
+/* disable dark mode on images */
+body.darkmode--activated img, body.darkmode--activated .darkmode-ignore {
+  mix-blend-mode: difference;
 }
