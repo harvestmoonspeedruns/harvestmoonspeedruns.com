@@ -81,6 +81,9 @@ The standard gift boost in StH is +4. There are very few disliked gifts, so most
 | Wallace | +4 | +4 |
 | Woody | +4 | +4 |
 
+\* +6 if AP > 40
+\**
+
 As a rule, any villager will accept a berry (Very Berry, Blueberry, or Cranberry) or Herb for at least +4, almost all will accept a Medicinal Herb for +4 (except Lyla and Martha), and some villagers will accept Moondrop Flowers and Pink-Cat-Mint Flowers (only girls and Kurt).
 
 An important gift mechanic in StH is the **affection threshold**; for some villagers, the boost from a certain gift will change depending on their current affection value, and this can be crucial for some endings. The most notable case is Dia, who receives a +4 boost from Blueberries at first, but when her affection is greater than 40, they give +6, which greatly reduces the number of trips needed to gift her for the Treasure Hunt II ending.
