@@ -81,8 +81,7 @@ The standard gift boost in StH is +4. There are very few disliked gifts, so most
 | Wallace | +4 | +4 |
 | Woody | +4 | +4 |
 
-\* +6 if AP > 40
-
+\* +6 if AP > 40;
 \**
 
 As a rule, any villager will accept a berry (Very Berry, Blueberry, or Cranberry) or Herb for at least +4, almost all will accept a Medicinal Herb for +4 (except Lyla and Martha), and some villagers will accept Moondrop Flowers and Pink-Cat-Mint Flowers (only girls and Kurt).
