@@ -96,7 +96,7 @@ An important gift mechanic in StH is the **affection threshold**; for some villa
 
 ### Birthdays
 
-Birthdays can sometimes play a role in StH runs, but the birthday boost is not static across all possible gifts, or all possible villagers.
+Birthdays can sometimes play a role in StH runs, but the birthday boost is not static across all gifts, or all villagers.
 
 ### Ending-specific boosts
 
