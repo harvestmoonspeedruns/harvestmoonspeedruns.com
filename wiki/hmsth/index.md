@@ -28,6 +28,8 @@ abbr: "hmsth"
 
 Cutscenes by ending
 
+Glitches and exploits
+
 Villager schedules
 
 Gift charts
