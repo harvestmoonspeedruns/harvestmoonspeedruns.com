@@ -48,6 +48,7 @@ An **introduction** is the first interaction with a given villager in a given ye
 | Nic | 10 | 12 |
 | Parsley | 10 | 10 |
 | Ronald | 12 | 12 |
+| Tim | 12 | 14 |
 | Wallace | 10 | 12 |
 | Woody | 10 | 12 |
 
