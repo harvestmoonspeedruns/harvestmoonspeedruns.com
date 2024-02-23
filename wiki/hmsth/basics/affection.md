@@ -24,5 +24,7 @@ The **positive** response is always the first option, the **negative** always th
 
 Wallace, Woody, Ronald, Parsley, and Martha are not affected by any response pattern, so they always start with 0 affection.
 
+Because the Goddess questions are only available on a fresh file, they can only be used in any% speedruns. The strategy is to give the response pattern that will boost whatever villager is the main target for the ending being attempted, e.g., for any% Horse Race, the **positive** pattern can be used to boost Bob, for any% Endangered Weasel, the **mixed** pattern can be used to boost Gwen, etc.
+
 ## Introductions
 
