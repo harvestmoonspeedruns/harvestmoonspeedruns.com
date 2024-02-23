@@ -58,7 +58,7 @@ For a gift intro, the player may choose to hold *any item whatsoever*, whether o
 
 ## Gifts
 
-The standard gift boost in StH is +4. There are very few disliked gifts, so most gifts will give either +2, +4, or +6 (with some exceptions, like Parsley). Forageables are the quickest and best gifts, so they are the go-to strategy in any%, but detailed gift charts can be found here. Some basic data on forageable boosts for every villager can be found below.
+The standard gift boost in StH is +4. There are very few disliked gifts, so most gifts will give either +2, +4, or +6 (with some exceptions, like Parsley). Forageables are the quickest and best gifts, so they are the go-to strategy in any%, but detailed gift charts can be found here (INSERT LINK). Some basic data on forageable boosts for every villager can be found below.
 
 | Villager | Berry | Herb | M. Herb | Flower | Walnut | Mushroom |
 | --- | --- | --- | --- | --- | --- | --- |
