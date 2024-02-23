@@ -71,11 +71,11 @@ The standard gift boost in StH is +4. There are very few disliked gifts, so most
 | Katie | +4 | +4 | +4 | +4 |
 | Kurt | +4 | +4 | +4 | +4 |
 | Louis | +4 | +4 | +4 | +0 |
-| Lyla | +4 | +4 | +2 | +4<sup>5</sup> |
+| Lyla | +4 | +4 | +2 | +4<sup>3</sup> |
 | Martha | +4 | +4 | +2 | +4 |
 | Nak | +4 | +4 | +4 | +0 |
 | Nic | +4 | +4 | +4 | +0 |
-| Parsley | +3<sup>3</sup> | +3<sup>4</sup> | +4 | +0 |
+| Parsley | +3<sup>4</sup> | +3<sup>5</sup> | +4 | +0 |
 | Ronald | +4 | +4 | +4 | +0 |
 | Tim | +4 | +4 | +4 | +0 |
 | Wallace | +4 | +4 | +4 | +0 |
@@ -85,9 +85,9 @@ Note: Berry = Very Berry, Blueberry, Cranberry; M. Herb = Medicinal Herb; Flower
 
 <sup>1</sup> +6 from Blueberries if AP > 40;
 <sup>2</sup> +6 from Cranberries;
-<sup>3</sup> +4 from all berries if AP > 20;
-<sup>4</sup> +6 if AP > 20;
-<sup>5</sup> +6 from Pink-Cat-Mint Flower
+<sup>3</sup> +6 from Pink-Cat-Mint Flower;
+<sup>4</sup> +4 from all berries if AP > 20;
+<sup>5</sup> +6 if AP > 20;
 
 An important gift mechanic in StH is the **affection threshold**; for some villagers, the boost from a certain gift will change depending on their current affection value, and this can be crucial for some endings. The most notable case is Dia, who receives a +4 boost from Blueberries at first, but when her affection is greater than 40, they give +6, which greatly reduces the number of trips needed to gift her for the Treasure Hunt II ending.
 
