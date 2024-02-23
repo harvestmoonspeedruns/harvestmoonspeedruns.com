@@ -39,6 +39,7 @@ An **introduction** is the first interaction with a given villager in a given ye
 | Gina | 8 | 10 |
 | Gwen | 12 | 14 |
 | Joe | 8 | 10 |
+| Katie | 10 | 12 |
 | Kurt | 10 | 10 |
 | Louis | 12 | 14 |
 | Lyla | 10 | 12 |
@@ -46,5 +47,8 @@ An **introduction** is the first interaction with a given villager in a given ye
 | Nak | 10 | 12 |
 | Nic | 10 | 12 |
 | Parsley | 10 | 10 |
+| Ronald | 12 | 12 |
+| Wallace | 10 | 12 |
+| Woody | 10 | 12 |
 
 
