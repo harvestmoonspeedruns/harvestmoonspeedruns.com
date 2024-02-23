@@ -25,3 +25,9 @@ abbr: "hmsth"
 
 ## StH Basics
 [Affection](basics/affection.md)
+
+Cutscenes by ending
+
+Villager schedules
+
+Gift charts
