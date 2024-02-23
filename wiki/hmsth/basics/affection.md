@@ -40,4 +40,4 @@ Gift Intro: "14"
 
 
 | Villager | Intro | Gift Intro |
-| -------- | ----- | ---------- |
+| --- | --- | --- |
