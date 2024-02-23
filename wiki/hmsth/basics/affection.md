@@ -90,7 +90,7 @@ Note: Berry = Very Berry, Blueberry, Cranberry; M. Herb = Medicinal Herb; Flower
 <sup>5</sup> +6 if AP > 20;
 <sup>6</sup> +2 if AP > 20
 
-An important gift mechanic in StH is the **affection threshold**; for some villagers, the boost from a certain gift will change depending on their current affection value, and this can be crucial for some endings. The most notable case is Dia, who receives a +4 boost from Blueberries at first, but when her affection is greater than 40, they give +6, which greatly reduces the number of trips needed to gift her for the Treasure Hunt II ending.
+An important gift mechanic in StH is the **affection threshold**; for some villagers, the boost from a certain gift will change depending on their current affection value, and this can be crucial for some endings. The most notable case is Dia, who receives a +4 boost from Blueberries at first, but when her affection is greater than 40, they give +6, which greatly reduces the number of trips needed to gift her for the Treasure Hunt II ending. In some cases, the boost can even decrease at higher affection levels, such as Parsley's boost from Walnuts and Mushrooms, which decreases from +3 to +2 when his affection exceeds 20.
 
 ## Practical Applications
 
