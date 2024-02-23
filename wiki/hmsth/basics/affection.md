@@ -75,7 +75,7 @@ The standard gift boost in StH is +4. There are very few disliked gifts, so most
 | Martha | +4 | +4 | +2 | +4 | +2 | +2 |
 | Nak | +4 | +4 | +4 | +0 | +3 | +6 |
 | Nic | +4 | +4 | +4 | +0 | +3 | +6 |
-| Parsley | +3<sup>4</sup> | +3<sup>5</sup> | +4 | +0 | +3<sup>6</sup> | +3<sup>6</sup> |
+| Parsley | +3<sup>4</sup> | +3<sup>5</sup> | +3<sup>5</sup> | +0 | +3<sup>6</sup> | +3<sup>6</sup> |
 | Ronald | +4 | +4 | +4 | +0 | +2 | +2 |
 | Tim | +4 | +4 | +4 | +0 | +2 | +2 |
 | Wallace | +4 | +4 | +4 | +0 | +2 | +2 |
