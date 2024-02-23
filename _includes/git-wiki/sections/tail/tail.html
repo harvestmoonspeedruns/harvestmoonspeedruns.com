@@ -18,14 +18,15 @@
 </script>
 {% endif %}
 
+{% assign items = site.html_pages %}
+{% for page in items %}
+{% assign url = page.url | relative_url %}
+{% assign urls = urls | append: url | append: "," %}
+{% endfor %}
+
 <script type="text/javascript">
     $(document).ready(function () {
-        $('#toc').toc({
-            title: '<i>Contents</i>',
-            showSpeed: 0,
-            headers: '#content h1, #content h2, #content h3, #content h4, #content h5, #content h6'
-        });
-        $(document.body).redLinks();
+        $(document.body).checkLinks("{{ urls }}".split(","));
     });
 </script>
 
