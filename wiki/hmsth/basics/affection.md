@@ -86,7 +86,7 @@ Note: Berry = Very Berry, Blueberry, Cranberry; M. Herb = Medicinal Herb; Flower
 \* +6 from Blueberries if AP > 40;
 \** +6 from Cranberries;
 \*** +4 from all berries if AP > 20;
-\**** +6 if AP > 20
+\**** +6 if AP > 20;
 \***** +6 from Pink-Cat-Mint Flower
 
 As a rule, any villager will accept a berry (Very Berry, Blueberry, or Cranberry) or Herb for at least +4, almost all will accept a Medicinal Herb for +4 (except Lyla and Martha), and some villagers will accept Moondrop Flowers and Pink-Cat-Mint Flowers (only girls and Kurt).
