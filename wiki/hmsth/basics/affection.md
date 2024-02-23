@@ -58,6 +58,8 @@ For a gift intro, the player may choose to hold *any item whatsoever*, whether o
 
 ## Practical Applications
 
+In routing singular any% endings and All Endings any%, the Goddess questions are the first place to start. The strategy is to give the response pattern that will boost whatever villager is the main target for the ending being attempted, e.g., for any% Horse Race, the **positive** pattern can be used to boost Bob, for any% Endangered Weasel, the **mixed** pattern can be used to boost Gwen, etc. In cases where multiple villagers must be gifted, it's best to get the Goddess boost for the villager that will end up requiring the most gifts. The only cases in any% where both target villagers belong to the same response pattern are Cake Contest and Goddess Dress, where Katie and Gina both get +15 for the **negative** pattern and are involved in each other's endings.
+
 
 
 
