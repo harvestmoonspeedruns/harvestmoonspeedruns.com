@@ -60,26 +60,26 @@ For a gift intro, the player may choose to hold *any item whatsoever*, whether o
 
 The standard gift boost in StH is +4. There are very few disliked gifts, so most gifts will give either +2, +4, or +6 (with some exceptions, like Parsley). Forageables are the quickest and best gifts, so they are the go-to strategy in any%, but detailed gift charts can be found here. Some basic data on forageable boosts for every villager can be found below.
 
-| Villager | Berry | Herb | M. Herb | Flower | Walnut |
-| --- | --- | --- | --- | --- | --- |
-| Bob | +4 | +4 | +4 | +0 | +2 |
-| Dia | +4<sup>1</sup> | +4 | +4 | +0 | +2 |
-| Flak | +4 | +4 | +4 | +0 | +3 |
-| Gina | +4 | +4 | +4 | +4 | +2 |
-| Gwen | +4<sup>2</sup> | +4 | +4 | +4 | +2 |
-| Joe | +4 | +4 | +4 | +0 | +2 |
-| Katie | +4 | +4 | +4 | +4 | +2 |
-| Kurt | +4 | +4 | +4 | +4 | +4 |
-| Louis | +4 | +4 | +4 | +0 | +2 |
-| Lyla | +4 | +4 | +2 | +4<sup>3</sup> | +2 |
-| Martha | +4 | +4 | +2 | +4 | +2 |
-| Nak | +4 | +4 | +4 | +0 | +3 |
-| Nic | +4 | +4 | +4 | +0 | +3 |
-| Parsley | +3<sup>4</sup> | +3<sup>5</sup> | +4 | +0 | +3<sup>6</sup> |
-| Ronald | +4 | +4 | +4 | +0 | +2 |
-| Tim | +4 | +4 | +4 | +0 | +2 |
-| Wallace | +4 | +4 | +4 | +0 | +2 |
-| Woody | +4 | +4 | +4 | +0 | +2 |
+| Villager | Berry | Herb | M. Herb | Flower | Walnut | Mushroom |
+| --- | --- | --- | --- | --- | --- | --- |
+| Bob | +4 | +4 | +4 | +0 | +2 | +2 |
+| Dia | +4<sup>1</sup> | +4 | +4 | +0 | +2 | +2 |
+| Flak | +4 | +4 | +4 | +0 | +3 | +6 |
+| Gina | +4 | +4 | +4 | +4 | +2 | +2 |
+| Gwen | +4<sup>2</sup> | +4 | +4 | +4 | +2 | +2 |
+| Joe | +4 | +4 | +4 | +0 | +2 | +2 |
+| Katie | +4 | +4 | +4 | +4 | +2 | +2 |
+| Kurt | +4 | +4 | +4 | +4 | +4 | +4 |
+| Louis | +4 | +4 | +4 | +0 | +2 | +2 |
+| Lyla | +4 | +4 | +2 | +4<sup>3</sup> | +2 | +2 |
+| Martha | +4 | +4 | +2 | +4 | +2 | +2 |
+| Nak | +4 | +4 | +4 | +0 | +3 | +6 |
+| Nic | +4 | +4 | +4 | +0 | +3 | +6 |
+| Parsley | +3<sup>4</sup> | +3<sup>5</sup> | +4 | +0 | +3<sup>6</sup> | +3<sup>6</sup> |
+| Ronald | +4 | +4 | +4 | +0 | +2 | +2 |
+| Tim | +4 | +4 | +4 | +0 | +2 | +2 |
+| Wallace | +4 | +4 | +4 | +0 | +2 | +2 |
+| Woody | +4 | +4 | +4 | +0 | +2 | +2 |
 
 Note: Berry = Very Berry, Blueberry, Cranberry; M. Herb = Medicinal Herb; Flower = Moondrop Flower, Pink-Cat-Mint Flower
 
