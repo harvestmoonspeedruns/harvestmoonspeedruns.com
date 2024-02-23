@@ -58,6 +58,8 @@ For a gift intro, the player may choose to hold *any item whatsoever*, whether o
 
 ## Gifts
 
+### Forageables
+
 The standard gift boost in StH is +4. There are very few disliked gifts, so most gifts will give either +2, +4, or +6 (with some exceptions, like Parsley). Forageables are the quickest and best gifts, so they are the go-to strategy in any%, but detailed gift charts can be found here (INSERT LINK). Some basic data on forageable boosts for every villager can be found below.
 
 | Villager | Berry | Herb | M. Herb | Flower | Walnut | Mushroom |
@@ -91,6 +93,16 @@ Note: Berry = Very Berry, Blueberry, Cranberry; M. Herb = Medicinal Herb; Flower
 <sup>6</sup> +2 if AP > 20
 
 An important gift mechanic in StH is the **affection threshold**; for some villagers, the boost from a certain gift will change depending on their current affection value, and this can be crucial for some endings. The most notable case is Dia, who receives a +4 boost from Blueberries at first, but when her affection is greater than 40, they give +6, which greatly reduces the number of trips needed to gift her for the Treasure Hunt II ending. In some cases, the boost can even decrease at higher affection levels, such as Parsley's boost from Walnuts and Mushrooms, which decreases from +3 to +2 when his affection exceeds 20.
+
+### Birthdays
+
+Birthdays can sometimes play a role in StH runs, but the birthday boost is not static across all possible gifts, or all possible villagers.
+
+### Ending-specific boosts
+
+Gift boosts can sometimes be affected by the player's progress through a certain ending. This is not well-documented, but a notable example is Cake Contest, where Katie receives +7 instead of her normal +6 from the Golden Egg and Golden Milk after giving her the cake recipe.
+
+## Conversations
 
 ## Practical Applications
 
