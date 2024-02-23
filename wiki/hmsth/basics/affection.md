@@ -60,29 +60,31 @@ For a gift intro, the player may choose to hold *any item whatsoever*, whether o
 
 The standard gift boost in StH is +4. There are very few disliked gifts, so most gifts will give either +2, +4, or +6 (with some exceptions, like Parsley). Forageables are the quickest and best gifts, so they are the go-to strategy in any%, but detailed gift charts can be found here. Some basic data on forageable boosts for every villager can be found below.
 
-| Villager | Berry | Herb |
-| --- | --- | --- |
-| Bob | +4 | +4 |
-| Dia | +4* | +4 |
-| Flak | +4 | +4 |
-| Gina | +4 | +4 |
-| Gwen | +4** | +4 |
-| Joe | +4 | +4 |
-| Katie | +4 | +4 |
-| Kurt | +4 | +4 |
-| Louis | +4 | +4 |
-| Lyla | +4 | +4 |
-| Martha | +4 | +4 |
-| Nak | +4 | +4 |
-| Nic | +4 | +4 |
-| Parsley | +3*** | +3**** |
-| Ronald | +4 | +4 |
-| Tim | +4 | +4 |
-| Wallace | +4 | +4 |
-| Woody | +4 | +4 |
+| Villager | Berry | Herb | M. Herb |
+| --- | --- | --- | --- |
+| Bob | +4 | +4 | +4 |
+| Dia | +4* | +4 | +4 |
+| Flak | +4 | +4 | +4 |
+| Gina | +4 | +4 | +4 |
+| Gwen | +4** | +4 | +4 |
+| Joe | +4 | +4 | +4 |
+| Katie | +4 | +4 | +4 |
+| Kurt | +4 | +4 | +4 |
+| Louis | +4 | +4 | +4 |
+| Lyla | +4 | +4 | +2 |
+| Martha | +4 | +4 | +2 |
+| Nak | +4 | +4 | +4 |
+| Nic | +4 | +4 | +4 |
+| Parsley | +3*** | +3**** | +4 |
+| Ronald | +4 | +4 | +4 |
+| Tim | +4 | +4 | +4 |
+| Wallace | +4 | +4 | +4 |
+| Woody | +4 | +4 | +4 |
 
-\* +6 if AP > 40;
-\**
+\* +6 from Blueberries if AP > 40;
+\** +6 from Cranberries;
+\*** +4 from all berries if AP > 20;
+\**** +6 if AP > 20
 
 As a rule, any villager will accept a berry (Very Berry, Blueberry, or Cranberry) or Herb for at least +4, almost all will accept a Medicinal Herb for +4 (except Lyla and Martha), and some villagers will accept Moondrop Flowers and Pink-Cat-Mint Flowers (only girls and Kurt).
 
