@@ -56,6 +56,34 @@ The introduction boosts for all villagers are given below.
 
 For a gift intro, the player may choose to hold *any item whatsoever*, whether or not it is a liked or disliked gift for the villager in question. If it is a liked gift, the villager will take the item from the player, as they would for a normal gift interaction, and this will count as the daily gift. Interestingly, if it is a disliked gift, the gift intro boost will still be granted, but the villager will not take the item from the player, meaning that **it will not count as the daily gift**, so the villager can still be gifted that day on top of the gift intro boost. As all villagers dislike weeds, this is commonly called a **weed intro**, since it is easiest to perform with a weed, but other items will work depending on the villager.
 
+## Gifts
+
+The standard gift boost in StH is +4. There are very few disliked gifts, so most gifts will give either +2, +4, or +6 (with some exceptions, like Parsley). Forageables are the quickest and best gifts, so they are the go-to strategy in any%, but detailed gift charts can be found here. Some basic data on forageable boosts for every villager can be found below.
+
+| Villager | Berry | Herb |
+| --- | --- | --- |
+| Bob | +4 | +4 |
+| Dia | +4* | +4 |
+| Flak | +4 | +4 |
+| Gina | +4 | +4 |
+| Gwen | +4** | +4 |
+| Joe | +4 | +4 |
+| Katie | +4 | +4 |
+| Kurt | +4 | +4 |
+| Louis | +4 | +4 |
+| Lyla | +4 | +4 |
+| Martha | +4 | +4 |
+| Nak | +4 | +4 |
+| Nic | +4 | +4 |
+| Parsley | +3*** | +3**** |
+| Ronald | +4 | +4 |
+| Tim | +4 | +4 |
+| Wallace | +4 | +4 |
+| Woody | +4 | +4 |
+As a rule, any villager will accept a berry (Very Berry, Blueberry, or Cranberry) or Herb for at least +4, almost all will accept a Medicinal Herb for +4 (except Lyla and Martha), and some villagers will accept Moondrop Flowers and Pink-Cat-Mint Flowers (only girls and Kurt).
+
+An important gift mechanic in StH is the **affection threshold**; for some villagers, the boost from a certain gift will change depending on their current affection value, and this can be crucial for some endings. The most notable case is Dia, who receives a +4 boost from Blueberries at first, but when her affection is greater than 40, they give +6, which greatly reduces the number of trips needed to gift her for the Treasure Hunt II ending.
+
 ## Practical Applications
 
 In routing singular any% endings and All Endings any%, the Goddess questions are the first place to start. The strategy is to give the response pattern that will boost whatever villager is the main target for the ending being attempted, e.g., for any% Horse Race, the **positive** pattern can be used to boost Bob, for any% Endangered Weasel, the **mixed** pattern can be used to boost Gwen, etc. In cases where multiple villagers must be gifted, it's best to get the Goddess boost for the villager that will end up requiring the most gifts. The only cases in any% where both target villagers belong to the same response pattern are Cake Contest and Goddess Dress, where Katie and Gina both get +15 for the **negative** pattern and are involved in each other's endings.
