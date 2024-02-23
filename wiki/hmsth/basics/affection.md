@@ -34,4 +34,4 @@ An **introduction** is the first interaction with a given villager in a given ye
 | Villager | Intro | Gift Intro |
 | --- | --- | --- |
 | Bob | 12 | 14 |
-| --- | --- | --- |
+| Dia | 8 | 8 |
