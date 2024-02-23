@@ -16,5 +16,13 @@ Upon starting any fresh file (by selecting "New Game" on the title screen), a cu
      * Turn it in (POSITIVE)
      * Take it home (NEGATIVE)
 
+The **positive** response is always the first option, the **negative** always the second. Depending on the player's responses to these questions, a **+15 affection boost** will be given to each of a different group of villagers. This boost only applies to the first year of the file, as the opening Goddess cutscene does not play for any subsequent New Game+ years. The response patterns are **all positive**, **all negative**, or **mixed** (any combination of at least one positive and at least one negative response). The villager groups are as follows:
+
+  * POSITIVE: Dia, Bob, Nak, Kurt, Louis
+  * NEGATIVE: Katie, Gina, Nic, Joe
+  * MIXED: Lyla, Gwen, Tim, Flak
+
+Wallace, Woody, Ronald, Parsley, and Martha are not affected by any response pattern, so they always start with 0 affection.
+
 ## Introductions
 
