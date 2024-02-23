@@ -43,5 +43,8 @@ An **introduction** is the first interaction with a given villager in a given ye
 | Louis | 12 | 14 |
 | Lyla | 10 | 12 |
 | Martha | 10 | 12 |
-| 
+| Nak | 10 | 12 |
+| Nic | 10 | 12 |
+| Parsley | 10 | 10 |
+
 
