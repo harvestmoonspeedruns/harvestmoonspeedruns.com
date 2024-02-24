@@ -181,6 +181,8 @@ Default
 
 ## Nic
 
+Default
+
 | Affection | Gift(s) |
 |---|---|
 |-3|Fodder, Weed|
@@ -190,6 +192,8 @@ Default
 |+6|Cream of Mushroom Soup, Golden Egg, Golden Milk, Mushroom|
 
 ## Parsley
+
+Default
 
 | Affection | Gift(s) |
 |---|---|
@@ -203,3 +207,15 @@ Default
 \*\* +6 if AP > 20
 
 \*\*\* +2 if AP > 20
+
+## Ronald
+
+Default
+
+| Affection | Gift(s) |
+|---|---|
+|-4|Weed|
+|0|Blue Rock, Copper Ore, Iron Ore, Limestone, Moondrop Flower, Moonlight Stone, Pink-Cat-Mint Flower, Rare Metal|
+|+2|AP Medicine, Full Moon Berry, Hard-Boiled Egg, Honey, Mushroom, Pontata Root, Rice Ball, Sandwich, Soft Bread, Sunny-Side Up, Walnut|
+|+4|Blueberry, Breadfruit, Corn, Cranberry, Egg, Fish L, Fish M, Fish S, Fodder, Herb, Hot Milk, Medicinal Herb, Milk L, Milk M, Milk S, Potato, Tomato, Very Berry|
+|+6|Blueberry Jam, Cake, Cranberry Jam, Bouillabaisse, Cheese, Cheesecake, Cheese Omelette, Cooked Fish, Cream of Corn Soup, Cream of Mushroom Soup, Cream of Tomato Soup, Creamy Soup, Flan, Fruit Cake, Fruit Omelette, Golden Egg, Golden Milk, Honey Cake, Leaf-Grilled Fish, Mixed Berry Jam, Mixed Omelette, Pancake, Plain Omelette, Sauteed Fish with Cream, Special Cheese, Special Cheesecake, Very Berry Jam, Yogurt|
