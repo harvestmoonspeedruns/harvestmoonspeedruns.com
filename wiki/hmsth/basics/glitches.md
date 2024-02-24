@@ -11,3 +11,6 @@ This is notable because most gifts in StH are +4, so the normal gift intro is us
 Weeds grow at random wherever an herb could otherwise appear. They are common enough that this is a viable strategy if it can help save an interaction in the long run. Notably, any item that the villager won't accept will work for a weed intro, even neutral (+0) items, such as Moondrop Flowers for many of the male villagers.
 
 Dia, Kurt, Parsley, and Ronald receive no extra boost for a gift intro, meaning that an attempted gift intro effectively just "eats" the daily gift. A weed intro in their case would be exactly equivalent to a normal intro plus a gift.
+
+## Farm Cutscene Weather Manipulation
+
