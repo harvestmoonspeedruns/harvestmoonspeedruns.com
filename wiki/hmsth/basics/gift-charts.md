@@ -35,6 +35,11 @@ Default
 
 | Affection | Gift(s) |
 |---|---|
+|-3|Fodder, Weed|
+|0|Blue Rock, Copper Ore, Iron Ore, Limestone, Moondrop Flower, Moonlight Stone, Pink-Cat-Mint Flower, Rare Metal|
+|+3|AP Medicine, Pontata Root, Walnut|
+|+4|Blueberry, Blueberry Jam, Bouillabaisse, Breadfruit, Cake, Cheese, Cheesecake, Cheese Omelette, Cooked Fish, Corn, Cranberry, Cranberry Jam, Cream of Corn Soup, Cream of Tomato Soup, Creamy Soup, Egg, Fish L, Fish M, Fish S, Flan, Fruit Cake, Fruit Omelette, Full Moon Berry, Golden Egg, Golden Milk, Hard-Boiled Egg, Herb, Honey, Honey Cake, Hot Milk, Leaf-Grilled Fish, Medicinal Herb, Milk L, Milk M, Milk S, Mixed Berry Jam, Mixed Omelette, Pancake, Plain Omelette, Potato, Rice Ball, Sandwich, Sauteed Fish with Cream, Soft Bread, Special Cheese, Special Cheesecake, Sunny-Side Up, Tomato, Very Berry, Very Berry Jam, Yogurt|
+|+6|Cream of Mushroom Soup, Mushroom|
 
 Birthday
 
