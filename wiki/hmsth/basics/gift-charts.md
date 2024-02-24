@@ -7,5 +7,5 @@ Bob
 | AP | Gift(s) |
 |---|---|
 |-4|Weed|
-|0|something|
+|0|Blue Rock, Copper Ore, Fodder, Iron Ore, Limestone, Moondrop Flower, Moonlight Stone, Pink-Cat-Mint Flower, Rare Metal|
 
