@@ -7,6 +7,5 @@ Bob
 | AP | Gift(s) |
 |---|---|
 |-4|Weed|
-|---|---|
 |0|something|
 
