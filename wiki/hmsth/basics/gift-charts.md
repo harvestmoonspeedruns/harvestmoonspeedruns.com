@@ -129,7 +129,7 @@ Default
 |-3|Fodder, Weed|
 |+4|AP Medicine, Blueberry, Blueberry Jam, Blue Rock\*, Bouillabaisse, Breadfruit, Cake, Cheese, Cheesecake, Cheese Omelette, Cooked Fish, Copper Ore\*, Corn, Cranberry, Cranberry Jam, Cream of Corn Soup, Cream of Mushroom Soup, Cream of Tomato Soup\*, Creamy Soup, Egg, Fish L, Fish M, Fish S, Flan, Fruit Cake, Fruit Omelette, Full Moon Berry, Golden Egg, Golden Milk, Hard-Boiled Egg, Herb, Honey, Honey Cake, Hot Milk, Iron Ore\*, Leaf-Grilled Fish, Limestone, Medicinal Herb, Milk L, Milk M, Milk S, Mixed Berry Jam, Mixed Omelette, Moondrop Flower, Moonlight Stone\*, Mushroom, Pancake, Pink-Cat-Mint Flower, Plain Omelette, Pontata Root, Potato, Rare Metal\*, Rice Ball, Sandwich, Sauteed Fish with Cream, Soft Bread, Special Cheese, Special Cheesecake, Sunny-Side Up, Tomato\*, Very Berry, Very Berry Jam, Walnut, Yogurt|
 
-\*\* +6 if AP > 20
+\* +6 if AP > 20
 
 ## Louis
 
@@ -138,4 +138,7 @@ Default
 | Affection | Gift(s) |
 |---|---|
 |-3|Fodder, Weed|
-|0|
+|0|Moondrop Flower, Pink-Cat-Mint Flower|
+|+2|AP Medicine, Full Moon Berry, Mushroom, Rice Ball, Sandwich, Soft Bread, Walnut|
+|+4|Blueberry, Blueberry Jam, Bouillabaisse, Breadfruit, Cake, Cheese, Cheesecake, Cooked Fish, Corn, Cranberry, Cranberry Jam, Cream of Corn Soup, Cream of Mushroom Soup, Cream of Tomato Soup, Creamy Soup, Egg, Fish L, Fish M, Fish S, Flan, Fruit Cake, Fruit Omelette, Herb, Honey, Honey Cake, Hot Milk, Leaf-Grilled Fish, Medicinal Herb, Milk L, Milk M, Milk S, Mixed Berry Jam, Pancake, Potato, Sauteed Fish with Cream, Special Cheese, Special Cheesecake, Tomato, Very Berry, Very Berry Jam, Yogurt|
+|+6|Blue Rock, Cheese Omelette, Copper Ore, Golden Egg, Golden Milk, Hard-Boiled Egg, Iron Ore, Limestone, Mixed Omelette, Moonlight Stone, Plain Omelette, Pontata Root, Rare Metal, Sunny-Side Up|
