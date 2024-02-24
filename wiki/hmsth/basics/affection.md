@@ -106,21 +106,13 @@ An important gift mechanic in StH is the **affection threshold**; for some villa
 
 ### Birthdays
 
-Birthdays can sometimes play a role in StH runs, but the birthday boost is not static across all gifts, or all villagers. For example, Louis will get +6 from berries on his birthday, instead of the usual +4, but minerals do not receive any extra birthday boost (they remain +6 for him whether it is his birthday or not). A gift could even give less affection on a villager's birthday, like for Gwen, who gets +4 from Hot Milk normally, but only +2 on her birthday. So birthdays should be treated entirely separately from normal days for routing purposes. A complete set of birthday gift charts can be found here (INSERT LINK).
+Birthdays can sometimes play a role in StH runs, but the birthday boost is not static across all gifts, or all villagers.
 
 ### Ending-specific boosts
 
-Gift boosts can sometimes be affected by the player's progress through a certain ending. This is not well-documented, but a notable example is Cake Contest, where Katie receives +7 instead of her normal +6 from the Golden Egg and Golden Milk after giving her the cake recipe. More testing is needed in this area.
+Gift boosts can sometimes be affected by the player's progress through a certain ending. This is not well-documented, but a notable example is Cake Contest, where Katie receives +7 instead of her normal +6 from the Golden Egg and Golden Milk after giving her the cake recipe.
 
 ## Conversations
-
-Conversation boosts **vary depending on the villager's location**. These locations can be loosely divided between **work** locations and **non-work or "day off"** locations. The general rule of thumb is that work locations give +4, while non-work locations tend to give +5 or +6 (though this is by no means universal). These boosts apply whenever the villager is **stationary** at that location (idly pacing within a small area counts as "stationary"). However, whenever a villager is in transit/walking from one stationary location to another, **the boost is only +2**. So in order to get the most out of the daily conversation boost, it is ideal to talk to a villager before they leave their first stationary location, or wait until they reach a stationary location before talking to them.
-
-### Doubletalks
-
-### Special dialogues
-
-There are some instances where a villager will show a special dialogue 
 
 ## Cutscenes
 

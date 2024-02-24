@@ -7,10 +7,10 @@ layout: git-wiki-default
 <h1>Games</h1>
 
 {% for game in site.data.games %}
-<a href="/wiki/{{game[1].abbr}}">
+<a href="{{game[1].abbr}}">
   <div class="card">
     <div class="card-container">
-      <img src="{{game[1].boxart}}" alt="{{game[1].name}}" style="width:100%">
+      <img src="{{game[1].boxart}}" alt="{{game[1].name}}" style="width:30%">
       <div class="card-text">
         <h4><b>{{game[1].name}}</b></h4>
         <p class="center"><a href="{{game[1].url}}" target="_blank">speedrun.com</a> | <a href="/wiki/tools/{{game[1].abbr}}" target="_blank">resources</a></p>

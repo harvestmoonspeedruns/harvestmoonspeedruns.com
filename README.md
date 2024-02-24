@@ -6,4 +6,4 @@ These runs consist of percise movements, quick menuing, some good-old-fashion RN
 knowledge of NPC schedules, backup routes, and what happens on what day. We hope you find enjoyment
 watching, running, or just researching these amazing games.
 
-Check out our [Game Guides](/wiki), [Tools](wiki/tools), and [Discord](https://discord.gg/8Hgh8Pp).
+Check out our [Game Guides](/wikitest/wiki), [Tools](/wikitest/wiki/tools), and [Discord](https://discord.gg/ArPnkBE).
