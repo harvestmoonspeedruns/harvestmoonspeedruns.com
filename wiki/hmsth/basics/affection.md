@@ -110,9 +110,17 @@ Birthdays can sometimes play a role in StH runs, but the birthday boost is not s
 
 ### Ending-specific boosts
 
-Gift boosts can sometimes be affected by the player's progress through a certain ending. This is not well-documented, but a notable example is Cake Contest, where Katie receives +7 instead of her normal +6 from the Golden Egg and Golden Milk after giving her the cake recipe.
+Gift boosts can sometimes be affected by the player's progress through a certain ending. This is not well-documented, but a notable example is Cake Contest, where Katie receives +7 instead of her normal +6 from the Golden Egg and Golden Milk after giving her the cake recipe. More testing is needed in this area.
 
 ## Conversations
+
+Conversation boosts **vary depending on the villager's location**. These locations can be loosely divided between **work** locations and **non-work** or **"day off"** locations.
+
+### Doubletalks
+
+### Special dialogues
+
+There are some instances where a villager will show a special dialogue 
 
 ## Cutscenes
 
