@@ -2,16 +2,6 @@
 
 The affection system in StH is similar to other early HM titles, but it also has its fair share of intricacies, especially regarding the conversation system. This page will cover the basics of **introduction**, **conversation**, and **gift** boosts, as well as affection boosts from the **Harvest Goddess questions** and certain **cutscenes**. As a rule, StH limits each villager to **one gift and one conversation per day**, but there are exceptions which will be discussed below.
 
-- [Goddess Questions](#goddess-questions)
-- [Introductions](#introductions)
-- [Gifts](#gifts)
-  * [Forageables](#forageables)
-  * [Birthdays](#birthdays)
-  * [Ending-specific boosts](#ending-specific-boosts)
-- [Conversations](#conversations)
-- [Cutscenes](#cutscenes)
-- [Practical Applications](#practical-applications)
-
 ## Goddess Questions
 
 Upon starting any fresh file (by selecting "New Game" on the title screen), a cutscene with the Harvest Goddess will play where she tasks the player with saving the town. In this cutscene, she will ask three questions, each with a **positive** response and a **negative** response. These questions are:
