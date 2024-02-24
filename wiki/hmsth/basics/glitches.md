@@ -26,4 +26,4 @@ When implementing this strategy, it's important to track the villager's affectio
 
 ## Levitating Horse and OoB
 
-First documented by [crazyberzerker](https://www.youtube.com/watch?v=Zfhh_RjDldQ)
+First documented by [crazyberzerker](https://www.youtube.com/watch?v=Zfhh_RjDldQ), this trick involves whistling for the horse and opening the quick inventory just as he hops the fence to reach you. If timed correctly, the horse is put in a glitched state where his vertical position does not decrease when he goes down a slope, and instead he just runs on air at his previous height. In fact, by pushing up against certain collision, his position can be raised until he can get out of bounds. This does not yet have any known use unfortunately, though it is theorized that it could be used to access loading or cutscene triggers somewhere out of bounds (in particular, accessing the loading zone to the Sacred Land would be massive). Dismounting the horse causes the player to fall endlessly if there is no collision underneath.
