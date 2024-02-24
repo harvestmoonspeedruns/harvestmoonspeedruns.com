@@ -17,3 +17,16 @@ Default
 Birthday
 
 ## Dia
+
+Default
+
+| Affection | Gift(s) |
+|---|---|
+|-6|Full Moon Berry|
+|-3|Weed|
+|0|Blue Rock, Copper Ore, Iron Ore, Limestone, Moondrop Flower, Moonlight Stone, Pink-Cat-Mint Flower, Rare Metal, Fodder|
+|+2|AP Medicine, Hot Milk, Mushroom, Pontata Root, Rice Ball, Soft Bread, Walnut|
+|+4|Blueberry*, Breadfruit, Corn, Cranberry, Egg, Fish L, Fish M, Fish S, Golden Egg, Golden Milk, Herb, Medicinal Herb, Milk L, Milk M, Milk S, Potato, Tomato, Very Berry|
+|+6|Blueberry Jam, Bouillabaisse, Cake, Cheese, Cheesecake, Cheese Omelette, Cooked Fish, Cranberry Jam, Cream of Corn Soup, Cream of Mushroom Soup, Cream of Tomato Soup, Creamy Soup, Flan, Fruit Cake, Fruit Omelette, Hard-Boiled Egg, Honey, Honey Cake, Leaf-Grilled Fish, Mixed Berry Jam, Mixed Omelette, Pancake, Plain Omelette, Sandwich, Sauteed Fish with Cream, Special Cheese, Special Cheesecake, Sunny-Side Up, Very Berry Jam, Yogurt|
+
+\* +6 if AP > 40
