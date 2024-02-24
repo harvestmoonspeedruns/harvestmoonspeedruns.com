@@ -4,8 +4,9 @@ This page provides gift charts for every villager, covering every possible gift 
 
 Bob
 
-| AP | Gift(s) |
+| Affection | Gift(s) |
 |---|---|
 |-4|Weed|
 |0|Blue Rock, Copper Ore, Fodder, Iron Ore, Limestone, Moondrop Flower, Moonlight Stone, Pink-Cat-Mint Flower, Rare Metal|
+|+2|AP Medicine, Full Moon Berry, Mushroom, Pontata Root, Rice Ball, Soft Bread, Walnut|
 
