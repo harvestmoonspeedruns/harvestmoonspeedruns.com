@@ -134,6 +134,8 @@ In the course of certain endings, villagers may have different dialogue associat
 
 ## Cutscenes
 
+The main purpose of raising affection in StH is to trigger the correct series of cutscenes that lead to the target ending. These cutscenes often give a small affection boost to the target villager(s) as well. It is rarely, if ever, worth it to trigger optional cutscenes just for extra affection, but for routing purposes, cutscene affection can be considered "built in" to the route and should be accounted for. All cutscenes and their associated boosts can be found here (INSERT LINK).
+
 ## Practical Applications
 
 In routing singular any% endings and All Endings any%, the Goddess questions are the first place to start. The strategy is to give the response pattern that will boost whatever villager is the main target for the ending being attempted, e.g., for any% Horse Race, the **positive** pattern can be used to boost Bob, for any% Endangered Weasel, the **mixed** pattern can be used to boost Gwen, etc. In cases where multiple villagers must be gifted, it's best to get the Goddess boost for the villager that will end up requiring the most gifts. The only cases in any% where both target villagers belong to the same response pattern are Cake Contest and Goddess Dress, where Katie and Gina both get +15 for the **negative** pattern and are involved in each other's endings.
