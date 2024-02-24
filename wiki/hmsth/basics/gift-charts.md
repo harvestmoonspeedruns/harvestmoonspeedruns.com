@@ -92,5 +92,6 @@ Default
 |---|---|
 |-3|Blue Rock, Copper Ore, Fodder, Iron Ore, Limestone, Moonlight Stone, Rare Metal, Weed|
 |0|Moondrop Flower, Pink-Cat-Mint Flower|
+|+2|AP Medicine, Cake, Cheesecake, Egg, Flan, Fruit Cake, Fruit Omelette, Full Moon Berry, Golden Egg, Honey, Honey Cake, Mushroom, Pancake, Pontata Root, Rice Ball, Soft Bread, Special Cheesecake, Walnut|
 |+4|Blueberry, Bouillabaisse, Cheese, Cheese Omelette, Cooked Fish, Cranberry, Cream of Corn Soup, Cream of Mushroom Soup, Cream of Tomato Soup, Creamy Soup, Fish L, Fish M, Fish S, Golden Milk, Hard-Boiled Egg, Herb, Hot Milk, Leaf-Grilled Soup, Medicinal Herb, Milk L, Milk M, Milk S, Mixed Omelette, Plain Omelette, Sandwich, Sauteed Fish with Cream, Special Cheese, Sunny-Side Up, Very Berry, Yogurt|
 |+6|Blueberry Jam, Breadfruit, Corn, Cranberry Jam, Mixed Berry Jam, Potato, Tomato, Very Berry Jam|
