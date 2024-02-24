@@ -20,7 +20,7 @@ We can exploit this trick by leaving our animals outside on a non-rainy day, que
 
 This strategy is invaluable in the [Cake Contest](any_/cake-contest.md) and [Horse Race](any_/horse-race.md) endings. The main limitation is that only farm cutscenes with relatively low affection requirements are viable. The most commonly used by far are the first two [Goddess Dress](any_/goddess-dress.md) cutscenes, involving Gina followed by Katie; since they both get +15 from the negative Goddess question pattern, this strat is a natural fit for Cake Contest. For Horse Race, Bob has two farm cutscenes that trigger upon reaching 1 heart and 2 hearts with the horse, so they can be freely used without any additional time investment.
 
-There are a few farm cutscenes that don't force sunny weather, such as Kurt's farm cutscenes during [Fishy Story](any_/a-fishy-story.md)
+There are a few farm cutscenes that don't force sunny weather, such as Kurt's farm cutscenes during [Fishy Story](any_/a-fishy-story.md) and Tim's during [Treasure Hunt I](any_/treasure-hunt-i.md) and [II](any_/treasure-hunt-ii.md).
 
 When implementing this strategy, it's important to track the villager's affection precisely, so that you know exactly what day they will reach the requirements for the farm cutscene before you start spamming sleep.
 
