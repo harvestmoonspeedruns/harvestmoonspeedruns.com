@@ -26,7 +26,7 @@ Default
 |-3|Weed|
 |0|Blue Rock, Copper Ore, Iron Ore, Limestone, Moondrop Flower, Moonlight Stone, Pink-Cat-Mint Flower, Rare Metal, Fodder|
 |+2|AP Medicine, Hot Milk, Mushroom, Pontata Root, Rice Ball, Soft Bread, Walnut|
-|+4|Blueberry*, Breadfruit, Corn, Cranberry, Egg, Fish L, Fish M, Fish S, Golden Egg, Golden Milk, Herb, Medicinal Herb, Milk L, Milk M, Milk S, Potato, Tomato, Very Berry|
+|+4|Blueberry\*, Breadfruit, Corn, Cranberry, Egg, Fish L, Fish M, Fish S, Golden Egg, Golden Milk, Herb, Medicinal Herb, Milk L, Milk M, Milk S, Potato, Tomato, Very Berry|
 |+6|Blueberry Jam, Bouillabaisse, Cake, Cheese, Cheesecake, Cheese Omelette, Cooked Fish, Cranberry Jam, Cream of Corn Soup, Cream of Mushroom Soup, Cream of Tomato Soup, Creamy Soup, Flan, Fruit Cake, Fruit Omelette, Hard-Boiled Egg, Honey, Honey Cake, Leaf-Grilled Fish, Mixed Berry Jam, Mixed Omelette, Pancake, Plain Omelette, Sandwich, Sauteed Fish with Cream, Special Cheese, Special Cheesecake, Sunny-Side Up, Very Berry Jam, Yogurt|
 
 \* +6 if AP > 40
@@ -42,7 +42,7 @@ Default
 |-3|Weed|
 |0|Blue Rock, Copper Ore, Fodder, Iron Ore, Limestone, Moonlight Stone, Rare Metal|
 |+2|AP Medicine, Mushroom, Pontata Root, Walnut|
-|+4|Blueberry, Blueberry Jam, Bouillabaisse, Breadfruit*, Cake, Cheese, Cheesecake, Cheese Omelette, Cooked Fish, Corn*, Cranberry, Cranberry Jam, Cream of Corn Soup, Cream of Mushroom Soup, Cream of Tomato Soup, Creamy Soup, Egg*, Fish L**, Fish M, Fish S, Flan, Fruit Cake, Fruit Omelette, Hard-Boiled Egg, Herb, Honey, Honey Cake, Hot Milk, Leaf-Grilled Fish, Medicinal Herb, Milk L*, Milk M*, Milk S*, Mixed Berry Jam, Mixed Omelette, Moondrop Flower, Pancake, Pink-Cat-Mint Flower, Plain Omelette, Potato*, Rice Ball, Sandwich, Sauteed Fish with Cream, Soft Bread, Special Cheese, Special Cheesecake, Sunny-Side Up, Tomato*, Very Berry, Very Berry Jam, Yogurt|
+|+4|Blueberry, Blueberry Jam, Bouillabaisse, Breadfruit\*, Cake, Cheese, Cheesecake, Cheese Omelette, Cooked Fish, Corn*, Cranberry, Cranberry Jam, Cream of Corn Soup, Cream of Mushroom Soup, Cream of Tomato Soup, Creamy Soup, Egg\*, Fish L\**, Fish M, Fish S, Flan, Fruit Cake, Fruit Omelette, Hard-Boiled Egg, Herb, Honey, Honey Cake, Hot Milk, Leaf-Grilled Fish, Medicinal Herb, Milk L\*, Milk M\*, Milk S\*, Mixed Berry Jam, Mixed Omelette, Moondrop Flower, Pancake, Pink-Cat-Mint Flower, Plain Omelette, Potato\*, Rice Ball, Sandwich, Sauteed Fish with Cream, Soft Bread, Special Cheese, Special Cheesecake, Sunny-Side Up, Tomato\*, Very Berry, Very Berry Jam, Yogurt|
 
 \* +5 if AP > 30
 
