@@ -14,3 +14,6 @@ Dia, Kurt, Parsley, and Ronald receive no extra boost for a gift intro, meaning 
 
 ## Farm Cutscene Weather Manipulation
 
+Many endings in StH involve cutscenes that take place on the farm. These will trigger as soon as the player exits the house first thing in the morning, as long as the affection requirements are met. Notably, **most of these cutscenes force sunny weather**. We can use this to our advantage in endings that require raising animals.
+
+## Levitating Horse and OoB
