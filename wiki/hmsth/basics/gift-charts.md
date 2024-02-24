@@ -107,3 +107,15 @@ Default
 |+2|AP Medicine, Full Moon Berry, Mushroom, Pontata Root, Rice Ball, Soft Bread, Walnut|
 |+4|Blueberry, Blueberry Jam, Breadfruit, Cake, Cheesecake, Corn, Cranberry, Cranberry Jam, Egg, Fish M, Flan, Fruit Cake, Fruit Omelette, Golden Egg, Golden Milk, Herb, Honey, Honey Cake, Medicinal Herb, Milk L, Milk M, Milk S, Mixed Berry Jam, Pancake, Potato, Special Cheesecake, Tomato, Very Berry, Very Berry Jam|
 |+6|Bouillabaisse, Cheese, Cheese Omelette, Cooked Fish, Cream of Corn Soup, Cream of Mushroom Soup, Cream of Tomato Soup, Creamy Soup, Hard-Boiled Egg, Hot Milk, Leaf-Grilled Fish, Mixed Omelette, Plain Omelette, Sandwich, Sauteed Fish with Cream, Special Cheese, Sunny-Side Up|
+
+## Katie
+
+Default
+
+| Affection | Gift(s) |
+|---|---|
+|-3|Fodder, Weed|
+|0|Blue Rock, Copper Ore, Iron Ore, Limestone, Moonlight Stone, Rare Metal|
+|+2|AP Medicine, Fruit Omelette, Honey, Mushroom, Pontata Root, Walnut, Yogurt|
+|+4|Blueberry, Breadfruit, Cake, Cheesecake, Corn, Cranberry, Egg, Fish L, Fish M, Fish S, Flan, Fruit Cake, Hard-Boiled Egg, Herb, Honey Cake, Hot Milk, Medicinal Herb, Milk L, Milk M, Milk S, Moondrop Flower, Pancake, Pink-Cat-Mint Flower, Potato, Rice Ball, Sandwich, Soft Bread, Special Cheesecake, Sunny-Side Up, Tomato, Very Berry|
+|+6|Blueberry Jam, Bouillabaisse, Cheese, Cheese Omelette, Cooked Fish, Cranberry Jam, Cream of Corn Soup, Cream of Mushroom Soup, Cream of Tomato Soup, Creamy Soup, Full Moon Berry, Golden Egg, Golden Milk, Leaf-Grilled Fish, Mixed Berry Jam, Mixed Omelette, Plain Omelette, Sauteed Fish with Cream, Special Cheese, Very Berry Jam|
