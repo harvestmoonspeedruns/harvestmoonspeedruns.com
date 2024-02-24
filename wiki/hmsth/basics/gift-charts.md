@@ -61,3 +61,13 @@ Default
 |+2|AP Medicine, Mushroom, Pontata Root, Walnut|
 |+4|Blueberry, Bouillabaisse, Breadfruit, Cake, Cheesecake, Cheese Omelette, Cooked Fish, Corn, Cream of Corn Soup, Cream of Mushroom Soup, Cream of Tomato Soup, Creamy Soup, Fish L, Fish M, Flan, Fruit Cake, Fruit Omelette, Egg, Golden Egg, Herb, Honey, Honey Cake, Hot Milk, Leaf-Grilled Fish, Medicinal Herb, Milk L, Milk M, Milk S, Mixed Omelette, Moondrop Flower, Pancake, Pink-Cat-Mint, Plain Omelette, Potato, Sauteed Fish with Cream, Special Cheesecake, Tomato, Very Berry|
 |+6|Blueberry Jam, Cheese, Cranberry, Cranberry Jam, Full Moon Berry, Golden Milk, Hard-Boiled Egg, Mixed Berry Jam, Rice Ball, Sandwich, Soft Bread, Special Cheese, Sunny-Side Up, Very Berry Jam, Yogurt|
+
+Birthday (Summer 8)
+
+| Affection | Gift(s) |
+|---|---|
+|-3|Fodder, Weed|
+|0|Blue Rock, Copper Ore, Fish S, Iron Ore, Limestone, Moonlight Stone, Pontata Root, Rare Metal|
+|+2|Bouillabaisse, Cheese Omelette, Cooked Fish, Cream of Corn Soup, Cream of Mushroom Soup, Cream of Tomato Soup, Creamy Soup, Fruit Omelette, Honey Cake, Hot Milk, Leaf-Grilled Fish, Mixed Omelette, Plain Omelette, Sauteed Fish with Cream|
+|+6|AP Medicine, Blueberry, Breadfruit, Cake, Cheese, Cheesecake, Corn, Cranberry, Egg, Fish L, Fish M, Flan, Fruit Cake, Full Moon Berry, Golden Egg, Golden Milk, Hard-Boiled Egg, Herb, Honey, Medicinal Herb, Milk L, Milk M, Milk S, Mushroom, Pancake, Potato, Rice Ball, Soft Bread, Sandwich, Special Cheese, Special Cheesecake, Sunny-Side Up, Tomato, Very Berry, Walnut, Yogurt|
+|+8|Blueberry Jam, Cranberry Jam, Mixed Berry Jam, Moondrop Flower, Pink-Cat-Mint Flower, Very Berry Jam|
