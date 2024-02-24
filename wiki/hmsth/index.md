@@ -26,6 +26,8 @@ abbr: "hmsth"
 ## StH Basics
 [Affection](basics/affection.md)
 
+Animal Mechanics
+
 [Cutscenes by ending](basics/cutscenes.md)
 
 Glitches and exploits
