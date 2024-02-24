@@ -106,7 +106,7 @@ An important gift mechanic in StH is the **affection threshold**; for some villa
 
 ### Birthdays
 
-Birthdays can sometimes play a role in StH runs, but the birthday boost is not static across all gifts, or all villagers.
+Birthdays can sometimes play a role in StH runs, but the birthday boost is not static across all gifts, or all villagers. For example, Louis will get +6 from berries on his birthday, instead of the usual +4, but minerals do not receive any extra birthday boost (they remain +6 for him whether it is his birthday or not). A gift could even give less affection on a villager's birthday, like for Gwen, who gets +4 from Hot Milk normally, but only +2 on her birthday. So birthdays should be treated entirely separately from normal days for routing purposes. A complete set of birthday gift charts can be found here (INSERT LINK).
 
 ### Ending-specific boosts
 
