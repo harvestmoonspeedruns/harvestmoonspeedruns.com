@@ -5,6 +5,7 @@ This page provides gift charts for every villager, covering every possible gift 
 ## Bob
 
 Default
+
 | Affection | Gift(s) |
 |---|---|
 |-4|Weed|
