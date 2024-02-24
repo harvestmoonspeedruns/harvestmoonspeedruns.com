@@ -14,6 +14,8 @@ Dia, Kurt, Parsley, and Ronald receive no extra boost for a gift intro, meaning 
 
 ## Farm Cutscene Weather Manipulation
 
-Many endings in StH involve cutscenes that take place on the farm. These will trigger as soon as the player exits the house first thing in the morning, as long as the affection requirements are met. Notably, **most of these cutscenes force sunny weather**. We can use this to our advantage in endings that require raising animals.
+Many endings in StH involve cutscenes that take place on the farm. These will trigger as soon as the player exits the house first thing in the morning. Notably, **most of these cutscenes force sunny weather**. We can use this to our advantage in endings that require animals. Raising animals is normally cumbersome, especially due to StH's "seasonal weather" system, wherein there is a 5–6-day "rainy" period in each season during which rain is virtually guaranteed. However, the farm cutscene effect applies even during the rainy season, and as long as the player keeps sleeping without leaving the house, **the weather will be perpetually sunny**.
+
+We can exploit this trick by leaving our animals outside, queueing up a morning farm cutscene by raising the right villager's affection, and sleeping repeatedly. The animals don't need to be fed while outside, and we can actually sleep through the mild and rainy seasons until the dry season. Rain is impossible during the dry season, so our animals are safe from there (until the next mild or rainy season). Furthermore, leaving animals outside in sunny weather **raises their affection** as well (+12 for chickens, +6 for cows and the horse; see [animals](basics/animals.md)), so we can use this to max out their affection quickly and easily. 
 
 ## Levitating Horse and OoB
