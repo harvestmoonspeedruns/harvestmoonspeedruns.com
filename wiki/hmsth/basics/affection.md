@@ -128,7 +128,9 @@ Because the conversation text is usually shorter if it follows a gift, this can 
 
 ### Special Dialogues and Cutscene Effects
 
-There are some instances where a villager will show a special dialogue 
+Sometimes a villager will show a special dialogue at certain affection levels, and it may be associated with a larger boost. For example, at 147 affection or higher, Dia will ask the player is they are her friend; responding "Of course" gives +7 and counts for the daily conversation. These seem to be uncommon, however.
+
+In the course of certain endings, villagers may have different dialogue associated with the story. These dialoges seem to have their own associated conversation boosts, so in some cases they can "overwrite" the normal boost for a given location. For example, Gina has a dialogue about the Goddess Dress that will play upon the first conversation after the third cutscene is triggered for that ending. This dialogue always gives +4, regardless of location, so if she is talked outside the Villa for this dialogue, normally a +5 location, it would mean a loss of 1 affection point.
 
 ## Cutscenes
 
