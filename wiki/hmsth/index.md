@@ -28,10 +28,10 @@ abbr: "hmsth"
 
 Animal Mechanics
 
-[Cutscenes by ending](basics/cutscenes.md)
+[Cutscenes by Ending](basics/cutscenes.md)
 
-Glitches and exploits
+[Glitches and Exploits](basics/glitches.md)
 
-Villager schedules
+Villager Schedules
 
-Gift charts
+Gift Charts
