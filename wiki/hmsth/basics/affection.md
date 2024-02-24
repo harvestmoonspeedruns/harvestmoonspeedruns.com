@@ -140,6 +140,6 @@ The main purpose of raising affection in StH is to trigger the correct series of
 
 In routing singular any% endings and All Endings any%, the Goddess questions are the first place to start. The strategy is to give the response pattern that will boost whatever villager is the main target for the ending being attempted, e.g., for any% Horse Race, the **positive** pattern can be used to boost Bob, for any% Endangered Weasel, the **mixed** pattern can be used to boost Gwen, etc. In cases where multiple villagers must be gifted, it's best to get the Goddess boost for the villager that will end up requiring the most gifts. The only cases in any% where both target villagers belong to the same response pattern are Cake Contest and Goddess Dress, where Katie and Gina both get +15 for the **negative** pattern and are involved in each other's endings.
 
-
+Small affection differences of +1 or +2 might seem trivial, but since most StH runs involve just gifting and sleeping, the optimization lies in keeping the number of interactions to an absolute minimum. Weed intros, doubletalks, and non-work +5/+6 conversation boosts are a few ways to squeeze out just a few extra affection points, and could be the difference in saving an entire trip
 
 
