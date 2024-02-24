@@ -9,4 +9,5 @@ Bob
 |-4|Weed|
 |0|Blue Rock, Copper Ore, Fodder, Iron Ore, Limestone, Moondrop Flower, Moonlight Stone, Pink-Cat-Mint Flower, Rare Metal|
 |+2|AP Medicine, Full Moon Berry, Mushroom, Pontata Root, Rice Ball, Soft Bread, Walnut|
+|+4|Blueberry, Breadfruit, Corn, Cranberry, Egg, Herb, Hot Milk, Medicinal Herb, Milk L, Milk M, Potato, Tomato, Very Berry|
 
