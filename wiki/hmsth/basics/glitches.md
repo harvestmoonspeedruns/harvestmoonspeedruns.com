@@ -25,3 +25,5 @@ There are a few farm cutscenes that don't force sunny weather, such as Kurt's fa
 When implementing this strategy, it's important to track the villager's affection precisely, so that you know exactly what day they will reach the requirements for the farm cutscene before you start spamming sleep.
 
 ## Levitating Horse and OoB
+
+First documented by [crazyberzerker](https://www.youtube.com/watch?v=Zfhh_RjDldQ)
