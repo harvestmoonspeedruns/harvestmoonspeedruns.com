@@ -31,6 +31,11 @@ Default
 
 \* +6 if AP > 40
 
+## Flak
+
+| Affection | Gift(s) |
+|---|---|
+
 Birthday
 
 ## Gina
@@ -71,3 +76,5 @@ Birthday (Summer 8)
 |+2|Bouillabaisse, Cheese Omelette, Cooked Fish, Cream of Corn Soup, Cream of Mushroom Soup, Cream of Tomato Soup, Creamy Soup, Fruit Omelette, Honey Cake, Hot Milk, Leaf-Grilled Fish, Mixed Omelette, Plain Omelette, Sauteed Fish with Cream|
 |+6|AP Medicine, Blueberry, Breadfruit, Cake, Cheese, Cheesecake, Corn, Cranberry, Egg, Fish L, Fish M, Flan, Fruit Cake, Full Moon Berry, Golden Egg, Golden Milk, Hard-Boiled Egg, Herb, Honey, Medicinal Herb, Milk L, Milk M, Milk S, Mushroom, Pancake, Potato, Rice Ball, Soft Bread, Sandwich, Special Cheese, Special Cheesecake, Sunny-Side Up, Tomato, Very Berry, Walnut, Yogurt|
 |+8|Blueberry Jam, Cranberry Jam, Mixed Berry Jam, Moondrop Flower, Pink-Cat-Mint Flower, Very Berry Jam|
+
+
