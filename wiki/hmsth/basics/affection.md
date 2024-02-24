@@ -24,7 +24,7 @@ The **positive** response is always the first option, the **negative** always th
 
 Wallace, Woody, Ronald, Parsley, and Martha are not affected by any response pattern, so they always start with 0 affection.
 
-Because the Goddess questions are only available on a fresh file, they can only be used in any% speedruns. The strategy is to give the response pattern that will boost whatever villager is the main target for the ending being attempted, e.g., for any% Horse Race, the **positive** pattern can be used to boost Bob, for any% Endangered Weasel, the **mixed** pattern can be used to boost Gwen, etc.
+Because the Goddess questions are only available on a fresh file, they can only be used in any% speedruns and the first ending completed in an All Endings any% run.
 
 ## Introductions
 
@@ -130,7 +130,7 @@ Because the conversation text is usually shorter if it follows a gift, this can 
 
 Sometimes a villager will show a special dialogue at certain affection levels, and it may be associated with a larger boost. For example, at 147 affection or higher, Dia will ask the player is they are her friend; responding "Of course" gives +7 and counts for the daily conversation. These seem to be uncommon, however.
 
-In the course of certain endings, villagers may have different dialogue associated with the story. These dialoges seem to have their own associated conversation boosts, so in some cases they can "overwrite" the normal boost for a given location. For example, Gina has a dialogue about the Goddess Dress that will play upon the first conversation after the third cutscene is triggered for that ending. This dialogue always gives +4, regardless of location, so if she is talked outside the Villa for this dialogue, normally a +5 location, it would mean a loss of 1 affection point.
+In the course of certain endings, villagers may have different dialogue associated with the story. These dialogues seem to have their own associated conversation boosts, so in some cases they can "overwrite" the normal boost for a given location. For example, Gina has a dialogue about the Goddess Dress that will play upon the first conversation after the third cutscene is triggered for that ending. This dialogue always gives +4, regardless of location, so if she is talked outside the Villa for this dialogue, normally a +5 location, it would mean a loss of 1 affection point.
 
 ## Cutscenes
 
