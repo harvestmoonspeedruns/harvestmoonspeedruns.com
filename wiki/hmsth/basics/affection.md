@@ -108,7 +108,7 @@ Conversation boosts **vary depending on the villager's location**. These locatio
 
 * Work: +4
 * Non-work/day off: +5 or +6
-* Walking: +2
+* Walking: +2 (+4 for Ronald)
 
 The **work** boost mainly applies at a villager's most common daytime location; for shopkeepers this might be either inside their respective shop, or nearby (before the shop opens). The **non-work** or "day off" boost is often either +5 or +6, but this is far from universal, and it's best to verify the boosts for each villager individually. A complete chart of all conversation boosts for all villagers can be found here (INSERT LINK).
 
@@ -118,13 +118,15 @@ Both of the standard conversation boosts apply **only when the villager is stati
 
 In general, villagers are limited to one conversation boost per day, but there are some exceptions, though all the details are not fully understood. It seems as though the actual rule is **one stationary boost and one walking boost**, but some testing has shown that even a third boost can be possible in some fringe cases. This tactic is commonly called a **doubletalk**.
 
-In practice, it is usually not useful, as a villager typically remains stationary for quite some time before moving to the next location, so waiting there just for an extra +2 walking boost is not worth it. However, if there is natural downtime in a run where a villager could walk past after being talked to earlier in the day, a doubletalk could be free extra affection. In Bluebird, the player must wait until 2pm on two separate days to trigger some required cutscenes, so Louis can get a full stationary convo boost in the morning, then be doubletalked for an extra +2 each day. It's worth noting that the stationary and walking boosts can be done in either order, so a villager could get a walking boost *then* a stationary boost as well.
+In practice, it is usually not useful, as a villager typically remains stationary for quite some time before moving to the next location, so waiting there just for an extra +2 walking boost is not worth it. However, if there is natural downtime in a run where a villager could walk past after being talked to earlier in the day, a doubletalk could be free extra affection. In Bluebird, the player must wait until 2pm on two separate days to trigger some required cutscenes, so Louis can get a full stationary convo boost in the morning, then be doubletalked for an extra +2 each day. It's worth noting that the stationary and walking boosts can be done in either order, so a villager could get a walking boost *then* a stationary boost, and vice versa. Also, as far as introductions are concerned, the villager's location, whether stationary or walking, is irrelevant, and the intro mechanics are applied as described above. Doubletalks are still possible after an introduction, but in some cases they seem to apply a unique penalty to the doubletalk in a way that requires more testing.
 
 ### Gift/Talk Order
 
+**Non-work** boosts (+5 and +6) are only applied if the villager is **talked before gifting**. Indeed, if the gift precedes the conversation, **the boost will revert to +4**. A different (typically shorter) textbox plays as well. This is especially important in an ending like Bluebird, where Louis is only gifted on his days off (+5), so to fully minimize the number of trips, he is always talked before gifting. For any conversation that is normally +4, there is no affection penalty for gifting first.
 
+Because the conversation text is usually shorter if it follows a gift, this can be used as a small optimization in cases where the convo boost is already +4, or cases where the affection loss is negligible. For example, Gwen's conversation text can be quite long in Endangered Weasel, especially as the ending progresses, so it is best to always gift her before talking, since her go-to location is a standard +4 conversation anyway.
 
-### Special Dialogues
+### Special Dialogues and Cutscene Effects
 
 There are some instances where a villager will show a special dialogue 
 
