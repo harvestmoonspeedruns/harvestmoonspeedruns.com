@@ -188,3 +188,18 @@ Default
 |+3|AP Medicine, Cheese, Hard-Boiled Egg, Pontata Root, Rice Ball, Sandwich, Soft Bread, Special Cheese, Sunny-Side Up, Walnut|
 |+4|Blueberry, Blueberry Jam, Bouillabaisse, Breadfruit, Cake, Cheese Omelette, Cheesecake, Cooked Fish, Corn, Cream of Corn Soup, Cream of Tomato Soup, Creamy Soup, Cranberry, Cranberry Jam, Egg, Fish L, Fish M, Fish S, Flan, Fruit Cake, Fruit Omelette, Full Moon Berry, Herb, Honey, Honey Cake, Hot Milk, Leaf-Grilled Fish, Medicinal Herb, Milk L, Milk M, Milk S, Mixed Berry Jam, Mixed Omelette, Pancake, Plain Omelette, Potato, Sauteed Fish with Cream, Special Cheesecake, Tomato, Very Berry, Very Berry Jam, Yogurt|
 |+6|Cream of Mushroom Soup, Golden Egg, Golden Milk, Mushroom|
+
+## Parsley
+
+| Affection | Gift(s) |
+|---|---|
+|-2|Weed|
+|0|Blueberry Jam, Blue Rock, Cake, Cheesecake, Copper Ore, Cranberry Jam, Flan, Fodder, Fruit Cake, Fruit Omelette, Honey, Honey Cake, Iron Ore, Limestone, Mixed Berry Jam, Moondrop Flower, Moonlight Stone, Pancake, Pink-Cat-Mint Flower, Rare Metal, Special Cheesecake, Very Berry Jam, Yogurt|
+|+3|AP Medicine\*\*\*, Blueberry\*, Bouillabaisse\*\*, Cheese\*, Cheese Omelette\*\*, Cooked Fish\*\*, Cranberry\*, Cream of Corn Soup\*\*, Cream of Mushroom Soup\*\*, Cream of Tomato Soup\*\*, Creamy Soup\*\*, Egg\*, Fish L\*, Fish M\*, Fish S\*, Full Moon Berry\*\*\*, Golden Egg\*, Golden Milk\*, Hard-Boiled Egg\*, Herb\*\*, Hot Milk\*, Leaf-Grilled Fish\*\*, Medicinal Herb\*\*, Milk L\*, Milk M\*, Milk S\*, Mixed Omelette\*\*, Mushroom\*\*\*, Plain Omelette\*\*, Pontata Root\*\*, Rice Ball\*, Sandwich\*, Sauteed Fish\*\*, Soft Bread\*, Special Cheese\*, Sunny-Side Up\*, Very Berry*, Walnut\*\*\*|
+|+4|Breadfruit, Corn, Potato, Tomato|
+
+\* +4 if AP > 20
+
+\*\* +6 if AP > 20
+
+\*\*\* +2 if AP > 20
