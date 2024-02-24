@@ -122,7 +122,7 @@ In practice, it is usually not useful, as a villager typically remains stationar
 
 ### Gift/Talk Order
 
-**Non-work** conversation boosts (+5 and +6) are only applied if the villager is **talked before gifting**. Indeed, if the gift precedes the conversation, **the convo boost will revert to +4**. A different (typically shorter) textbox plays as well. This is especially important in an ending like Bluebird, where Louis is only gifted on his days off (+5), so to fully minimize the number of trips, he is always talked before gifting. For any conversation that is normally +4, there is no affection penalty for gifting first.
+**Non-work** conversation boosts (+5 and +6) are only applied if the villager is **talked before gifting**. Indeed, if the gift precedes the conversation, **the convo boost will revert to +4**. A different (typically shorter) textbox plays as well. This is especially important in an ending like Bluebird, where Louis is only gifted on his days off (for +5 convos), so to fully minimize the number of trips, he is always talked before gifting. For any conversation that is normally +4, there is no affection penalty for gifting first.
 
 Because the conversation text is usually shorter if it follows a gift, this can be used as a small optimization in cases where the convo boost is already +4, or cases where the affection loss is negligible. For example, Gwen's conversation text can be quite long in Endangered Weasel, especially as the ending progresses, so it is best to always gift her before talking, since her go-to location is a standard +4 conversation anyway. Optimizing textboxes is still fairly uncharted territory for StH, but it could hold some potential in the future.
 
