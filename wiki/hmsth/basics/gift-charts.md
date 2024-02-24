@@ -155,4 +155,14 @@ Default
 |+4|Blueberry, Blueberry Jam, Breadfruit, Cake, Cheesecake, Corn, Cranberry, Cranberry Jam, Egg, Fish L, Fish M, Fish S, Flan, Fruit Cake, Fruit Omelette, Herb, Honey, Honey Cake, Hot Milk, Milk L, Milk M, Milk S, Mixed Berry Jam, Moondrop Flower, Pancake, Potato, Special Cheesecake, Tomato, Very Berry, Very Berry Jam|
 |+6|Bouillabaisse, Cheese, Cheese Omelette, Cooked Fish, Cream of Corn Soup, Cream of Mushroom Soup, Cream of Tomato Soup, Creamy Soup, Full Moon Berry, Golden Egg, Golden Milk, Hard-Boiled Egg, Leaf-Grilled Fish, Mixed Omelette, Pink-Cat-Mint Flower, Plain Omelette, Pontata Root, Sandwich, Sauteed Fish with Cream, Special Cheese, Sunny-Side Up, Yogurt|
 
+## Martha
 
+Default
+
+| Affection | Gift(s) |
+|---|---|
+|-4|Weed|
+|0|Blue Rock, Copper Ore, Fish S, Fodder, Iron Ore, Limestone, Moonlight Stone, Rare Metal|
+|+2|AP Medicine, Full Moon Berry, Medicinal Herb, Mushroom, Pontata Root, Walnut|
+|+4|Blueberry, Breadfruit, Cheese, Corn, Cranberry, Egg, Fish L, Fish M, Hard-Boiled Egg, Herb, Honey, Hot Milk, Milk L, Milk M, Milk S, Moondrop Flower, Pink-Cat-Mint Flower, Potato, Rice Ball, Sandwich, Soft Bread, Sunny-Side Up, Tomato, Very Berry|
+|+6|Blueberry Jam, Bouillabaisse, Cake, Cheesecake, Cheese Omelette, Cooked Fish, Cranberry Jam, Cream of Corn Soup, Cream of Mushroom Soup, Cream of Tomato Soup, Creamy Soup, Flan, Fruit Cake, Fruit Omelette, Golden Egg, Golden Milk, Honey Cake, Leaf-Grilled Fish, Mixed Berry Jam, Mixed Omelette, Pancake, Plain Omelette, Sauteed Fish with Cream, Special Cheese, Special Cheesecake, Very Berry Jam, Yogurt|
