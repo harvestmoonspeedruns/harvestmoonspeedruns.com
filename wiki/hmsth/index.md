@@ -34,4 +34,4 @@ Animal Mechanics
 
 Villager Schedules
 
-Gift Charts
+[Gift Charts](basics/gift-charts.md)
