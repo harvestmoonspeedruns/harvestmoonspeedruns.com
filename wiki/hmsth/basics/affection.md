@@ -114,7 +114,7 @@ Gift boosts can sometimes be affected by the player's progress through a certain
 
 ## Conversations
 
-Conversation boosts **vary depending on the villager's location**. These locations can be loosely divided between **work** locations and **non-work** or **"day off"** locations.
+Conversation boosts **vary depending on the villager's location**. These locations can be loosely divided between **work** locations and **non-work or "day off"** locations. The general rule of thumb is that work locations give +4, while non-work locations tend to give +5 or +6 (though this is by no means universal). These boosts apply whenever the villager is **stationary** at that location (idly pacing within a small area counts as "stationary"). However, whenever a villager is in transit/walking from one stationary location to another, **the boost is only +2**. So in order to get the most out of the daily conversation boost, it is ideal to talk to a villager before they leave their first stationary location, or wait until they reach a stationary location before talking to them.
 
 ### Doubletalks
 
