@@ -116,7 +116,15 @@ Both of the standard conversation boosts apply **only when the villager is stati
 
 ### Doubletalks
 
-### Special dialogues
+In general, villagers are limited to one conversation boost per day, but there are some exceptions, though all the details are not fully understood. It seems as though the actual rule is **one stationary boost and one walking boost**, but some testing has shown that even a third boost can be possible in some fringe cases. This tactic is commonly called a **doubletalk**.
+
+In practice, it is usually not useful, as a villager typically remains stationary for quite some time before moving to the next location, so waiting there just for an extra +2 walking boost is not worth it. However, if there is natural downtime in a run where a villager could walk past after being talked to earlier in the day, a doubletalk could be free extra affection. In Bluebird, the player must wait until 2pm on two separate days to trigger some required cutscenes, so Louis can get a full stationary convo boost in the morning, then be doubletalked for an extra +2 each day. It's worth noting that the stationary and walking boosts can be done in either order, so a villager could get a walking boost *then* a stationary boost as well.
+
+### Gift/Talk Order
+
+
+
+### Special Dialogues
 
 There are some instances where a villager will show a special dialogue 
 
