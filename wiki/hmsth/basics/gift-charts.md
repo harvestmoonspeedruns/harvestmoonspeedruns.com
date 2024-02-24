@@ -33,6 +33,8 @@ Default
 
 ## Flak
 
+Default
+
 | Affection | Gift(s) |
 |---|---|
 |-3|Fodder, Weed|
@@ -82,4 +84,13 @@ Birthday (Summer 8)
 |+6|AP Medicine, Blueberry, Breadfruit, Cake, Cheese, Cheesecake, Corn, Cranberry, Egg, Fish L, Fish M, Flan, Fruit Cake, Full Moon Berry, Golden Egg, Golden Milk, Hard-Boiled Egg, Herb, Honey, Medicinal Herb, Milk L, Milk M, Milk S, Mushroom, Pancake, Potato, Rice Ball, Soft Bread, Sandwich, Special Cheese, Special Cheesecake, Sunny-Side Up, Tomato, Very Berry, Walnut, Yogurt|
 |+8|Blueberry Jam, Cranberry Jam, Mixed Berry Jam, Moondrop Flower, Pink-Cat-Mint Flower, Very Berry Jam|
 
+## Harvest Goddess
 
+Default
+
+| Affection | Gift(s) |
+|---|---|
+|-3|Blue Rock, Copper Ore, Fodder, Iron Ore, Limestone, Moonlight Stone, Rare Metal, Weed|
+|0|Moondrop Flower, Pink-Cat-Mint Flower|
+|+4|Blueberry, Bouillabaisse, Cheese, Cheese Omelette, Cooked Fish, Cranberry, Cream of Corn Soup, Cream of Mushroom Soup, Cream of Tomato Soup, Creamy Soup, Fish L, Fish M, Fish S, Golden Milk, Hard-Boiled Egg, Herb, Hot Milk, Leaf-Grilled Soup, Medicinal Herb, Milk L, Milk M, Milk S, Mixed Omelette, Plain Omelette, Sandwich, Sauteed Fish with Cream, Special Cheese, Sunny-Side Up, Very Berry, Yogurt|
+|+6|Blueberry Jam, Breadfruit, Corn, Cranberry Jam, Mixed Berry Jam, Potato, Tomato, Very Berry Jam|
