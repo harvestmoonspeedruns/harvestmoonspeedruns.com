@@ -142,3 +142,17 @@ Default
 |+2|AP Medicine, Full Moon Berry, Mushroom, Rice Ball, Sandwich, Soft Bread, Walnut|
 |+4|Blueberry, Blueberry Jam, Bouillabaisse, Breadfruit, Cake, Cheese, Cheesecake, Cooked Fish, Corn, Cranberry, Cranberry Jam, Cream of Corn Soup, Cream of Mushroom Soup, Cream of Tomato Soup, Creamy Soup, Egg, Fish L, Fish M, Fish S, Flan, Fruit Cake, Fruit Omelette, Herb, Honey, Honey Cake, Hot Milk, Leaf-Grilled Fish, Medicinal Herb, Milk L, Milk M, Milk S, Mixed Berry Jam, Pancake, Potato, Sauteed Fish with Cream, Special Cheese, Special Cheesecake, Tomato, Very Berry, Very Berry Jam, Yogurt|
 |+6|Blue Rock, Cheese Omelette, Copper Ore, Golden Egg, Golden Milk, Hard-Boiled Egg, Iron Ore, Limestone, Mixed Omelette, Moonlight Stone, Plain Omelette, Pontata Root, Rare Metal, Sunny-Side Up|
+
+## Lyla
+
+Default
+
+| Affection | Gift(s) |
+|---|---|
+|-3|Weed|
+|0|Blue Rock, Copper Ore, Fodder, Iron Ore, Limestone, Moonlight Stone, Rare Metal|
+|+2|AP Medicine, Medicinal Herb, Mushroom, Rice Ball, Soft Bread, Walnut|
+|+4|Blueberry, Blueberry Jam, Breadfruit, Cake, Cheesecake, Corn, Cranberry, Cranberry Jam, Egg, Fish L, Fish M, Fish S, Flan, Fruit Cake, Fruit Omelette, Herb, Honey, Honey Cake, Hot Milk, Milk L, Milk M, Milk S, Mixed Berry Jam, Moondrop Flower, Pancake, Potato, Special Cheesecake, Tomato, Very Berry, Very Berry Jam|
+|+6|Bouillabaisse, Cheese, Cheese Omelette, Cooked Fish, Cream of Corn Soup, Cream of Mushroom Soup, Cream of Tomato Soup, Creamy Soup, Full Moon Berry, Golden Egg, Golden Milk, Hard-Boiled Egg, Leaf-Grilled Fish, Mixed Omelette, Pink-Cat-Mint Flower, Plain Omelette, Pontata Root, Sandwich, Sauteed Fish with Cream, Special Cheese, Sunny-Side Up, Yogurt|
+
+
