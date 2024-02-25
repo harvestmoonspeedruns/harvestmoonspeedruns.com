@@ -26,7 +26,7 @@ abbr: "hmsth"
 ## StH Basics
 [Affection](basics/affection.md)
 
-Animal Mechanics
+[Animal Mechanics](basics/animals.md)
 
 [Cutscenes by Ending](basics/cutscenes.md)
 
