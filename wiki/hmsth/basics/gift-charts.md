@@ -231,3 +231,15 @@ Default
 |+2|AP Medicine, Full Moon Berry, Hard-Boiled Egg, Mushroom, Pontata Root, Rice Ball, Sandwich, Soft Bread, Sunny-Side Up, Walnut|
 |+4|Blueberry, Breadfruit, Corn, Cranberry, Fish L, Fish M, Fish S, Golden Milk, Herb, Medicinal Herb, Milk L, Milk M, Milk S, Potato, Tomato, Very Berry|
 |+6|Blueberry Jam, Bouillabaisse, Cake, Cheese, Cheesecake, Cheese Omelette, Cooked Fish, Cranberry Jam, Cream of Corn Soup, Cream of Mushroom Soup, Cream of Tomato Soup, Creamy Soup, Egg, Flan, Fruit Cake, Fruit Omelette, Golden Egg, Honey, Honey Cake, Leaf-Grilled Fish, Mixed Berry Jam, Mixed Omelette, Pancake, Plain Omelette, Sauteed Fish with Cream, Special Cheese, Special Cheesecake, Very Berry Jam, Yogurt|
+
+## Wallace
+
+Default
+
+| Affection | Gift(s) |
+|---|---|
+|-2|Weed|
+|0|Blue Rock, Copper Ore, Fodder, Iron Ore, Limestone, Moondrop Flower, Moonlight Stone, Pink-Cat-Mint Flower, Rare Metal|
+|+2|AP Medicine, Full Moon Berry, Hot Milk, Mushroom, Pontata Root, Rice Ball, Soft Bread, Walnut|
+|+4|Blueberry, Breadfruit, Corn, Cranberry, Egg, Fish L, Fish M, Fish S, Golden Egg, Golden Milk, Herb, Honey, Medicinal Herb, Milk L, Milk M, Milk S, Potato, Tomato, Very Berry|
+|+6|Blueberry Jam, Bouillabaisse, Cake, Cheese, Cheesecake, Cheese Omelette, Cooked Fish, Cranberry Jam, Cream of Corn Soup, Cream of Mushroom Soup, Cream of Tomato Soup, Creamy Soup, Flan, Fruit Cake, Fruit Omelette, Hard-Boiled Egg, Honey Cake, Leaf-Grilled Fish, Mixed Berry Jam, Mixed Omelette, Pancake, Plain Omelette, Sandwich, Sauteed Fish with Cream, Special Cheese, Special Cheesecake, Sunny-Side Up, Very Berry Jam, Yogurt|
