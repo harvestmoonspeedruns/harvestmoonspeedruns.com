@@ -232,6 +232,15 @@ Default
 |+4|Blueberry, Breadfruit, Corn, Cranberry, Fish L, Fish M, Fish S, Golden Milk, Herb, Medicinal Herb, Milk L, Milk M, Milk S, Potato, Tomato, Very Berry|
 |+6|Blueberry Jam, Bouillabaisse, Cake, Cheese, Cheesecake, Cheese Omelette, Cooked Fish, Cranberry Jam, Cream of Corn Soup, Cream of Mushroom Soup, Cream of Tomato Soup, Creamy Soup, Egg, Flan, Fruit Cake, Fruit Omelette, Golden Egg, Honey, Honey Cake, Leaf-Grilled Fish, Mixed Berry Jam, Mixed Omelette, Pancake, Plain Omelette, Sauteed Fish with Cream, Special Cheese, Special Cheesecake, Very Berry Jam, Yogurt|
 
+Birthday (Fall 12)
+
+| Affection | Gift(s) |
+|---|---|
+|-3|Fodder, Hot Milk, Weed|
+|0|Blue Rock, Copper Ore, Iron Ore, Limestone, Moondrop Flower, Moonlight Stone, Pink-Cat-Mint Flower, Rare Metal|
+|+4|Herb, Medicinal Herb|
+|+8|AP Medicine, Blueberry, Blueberry Jam, Breadfruit, Bouillabaisse, Cake, Cheese, Cheesecake, Cheese Omelette, Cooked Fish, Corn, Cranberry, Cranberry Jam, Cream of Corn Soup, Cream of Mushroom Soup, Cream of Tomato Soup, Creamy Soup, Egg, Fish L, Fish M, Fish S, Flan, Fruit Cake, Fruit Omelette, Full Moon Berry, Golden Egg, Golden Milk, Hard-Boiled Egg, Honey, Honey Cake, Leaf-Grilled Fish, Milk L, Milk M, Milk S, Mixed Berry Jam, Mixed Omelette, Mushroom, Pancake, Plain Omelette, Pontata Root, Potato, Rice Ball, Sandwich, Soft Bread, Special, Cheese, Sauteed Fish with Cream, Special Cheesecake, Sunny-Side Up, Tomato, Very Berry, Very Berry Jam, Walnut, Yogurt|
+
 ## Wallace
 
 Default
