@@ -26,10 +26,12 @@ abbr: "hmsth"
 ## StH Basics
 [Affection](basics/affection.md)
 
-[Cutscenes by ending](basics/cutscenes.md)
+[Animal Mechanics](basics/animals.md)
 
-Glitches and exploits
+[Cutscenes by Ending](basics/cutscenes.md)
 
-Villager schedules
+[Glitches and Exploits](basics/glitches.md)
 
-Gift charts
+Villager Schedules
+
+[Gift Charts](basics/gift-charts.md)

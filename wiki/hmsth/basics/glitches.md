@@ -1,0 +1,29 @@
+# StH Glitches and Exploits
+
+StH is not super glitch-heavy compared to other HM/SoS speedgames (though we are always hoping for something crazy to be found), but there are a couple small exploits that are extremely important for speedruns.
+
+## Weed Intro
+
+This topic is covered briefly in the [basic affection](affection.md) article, but it's worth discussing in detail here. Every villager has a special conversation boost for their first interaction of the year, called an **introduction**. For most villagers, if the player is holding an item during the introduction, the intro counts for an extra +2, called a **gift intro**. Despite the name, the held item **does not need to be a liked item**. The gift intro boost will be applied regardless, but the villager will still take or leave the item depending on whether it is a liked item (physically removing it from the player's hands if it is liked). If the villager takes the item, it counts as the daily gift and they cannot be gifted again, but if they don't take it, **they can still be gifted that day**. This effectively means that the player can get the extra +2 for the gift intro boost without burning the daily gift. Because weeds are the most common disliked gift, this trick is commonly called a **weed intro**.
+
+Most gifts in StH are +4, so the normal gift intro is usually not useful. As an example, Bob's normal intro is +12, and his gift intro is +14. If a gift intro is triggered with a liked item, say a Very Berry, he will get +14, but he cannot be gifted again that day. On the other hand, if he is intro'd *and then gifted the Very Berry*, he will receive 12 + 4 = +16 total affection. Indeed, this is normally the best strat, unless the extra +2 won't end up mattering in the long run. However, if the weed intro is used, he will receive +14 for his gift intro, *but he can still be gifted normally*, giving him 14 + 4 = +18 total affection.
+
+Weeds grow at random wherever an herb could otherwise appear. They are common enough that this is a viable strategy if it can help save an interaction in the long run. Notably, any item that the villager won't accept will work for a weed intro, even neutral (+0) items, such as Moondrop Flowers for many of the male villagers.
+
+Dia, Kurt, Parsley, and Ronald receive no extra boost for a gift intro, meaning that an attempted gift intro effectively just "eats" the daily gift. A weed intro in their case would be exactly equivalent to a normal intro plus a gift.
+
+## Farm Cutscene Weather Manipulation
+
+Many endings in StH involve cutscenes that take place on the farm. These will trigger as soon as the player exits the house first thing in the morning. Notably, **most of these cutscenes force sunny weather**. We can use this to our advantage in endings that require animals. Raising animals is normally cumbersome, especially due to StH's "seasonal weather" system, wherein there is a 5–6-day "rainy" period in each season during which rain is virtually guaranteed. However, the farm cutscene effect applies even during the rainy season, and as long as the player keeps sleeping without leaving the house, **the weather will be perpetually sunny**.
+
+We can exploit this trick by leaving our animals outside on a non-rainy day, queueing up a morning farm cutscene by raising the right villager's affection, and sleeping repeatedly. The animals don't need to be fed while outside, and we can actually sleep through the mild and rainy seasons until the dry season. Rain is impossible during the dry season, so our animals are safe from there (until the next mild or rainy season). Furthermore, leaving animals outside in sunny weather **raises their affection** as well (+12 for chickens, +6 for cows and the horse; see [animals](animals.md)), so we can use this to max out their affection quickly and easily.
+
+This strategy is invaluable in the [Cake Contest](any_/cake-contest.md) and [Horse Race](any_/horse-race.md) endings. The main limitation is that only farm cutscenes with relatively low affection requirements are viable. The most commonly used by far are the first two [Goddess Dress](any_/goddess-dress.md) cutscenes, involving Gina followed by Katie; since they both get +15 from the negative Goddess question pattern, this strat is a natural fit for Cake Contest. For Horse Race, Bob has two farm cutscenes that trigger upon reaching 1 heart and 2 hearts with the horse, so they can be freely used without any additional time investment.
+
+There are a few farm cutscenes that don't force sunny weather, such as Kurt's farm cutscenes during [Fishy Story](any_/a-fishy-story.md) and Tim's during [Treasure Hunt I](any_/treasure-hunt-i.md) and [II](any_/treasure-hunt-ii.md).
+
+When implementing this strategy, it's important to track the villager's affection precisely, so that you know exactly what day they will reach the requirements for the farm cutscene before you start spamming sleep.
+
+## Levitating Horse and OoB
+
+First documented by [crazyberzerker](https://www.youtube.com/watch?v=Zfhh_RjDldQ), this trick involves whistling for the horse and opening the quick inventory just as he hops the fence to reach you. If timed correctly, the horse is put in a glitched state where his vertical position does not decrease when he goes down a slope, and instead he just runs on air at his previous height. In fact, by pushing up against certain collision, his position can be raised until he can get out of bounds. This does not yet have any known use unfortunately, though it is theorized that it could be used to access loading or cutscene triggers somewhere out of bounds (in particular, accessing the loading zone to the Sacred Land would be massive). Dismounting the horse causes the player to fall endlessly if there is no collision underneath.

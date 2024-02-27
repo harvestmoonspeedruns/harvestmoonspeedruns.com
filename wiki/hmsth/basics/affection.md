@@ -2,16 +2,6 @@
 
 The affection system in StH is similar to other early HM titles, but it also has its fair share of intricacies, especially regarding the conversation system. This page will cover the basics of **introduction**, **conversation**, and **gift** boosts, as well as affection boosts from the **Harvest Goddess questions** and certain **cutscenes**. As a rule, StH limits each villager to **one gift and one conversation per day**, but there are exceptions which will be discussed below.
 
-- [Goddess Questions](#goddess-questions)
-- [Introductions](#introductions)
-- [Gifts](#gifts)
-  * [Forageables](#forageables)
-  * [Birthdays](#birthdays)
-  * [Ending-specific boosts](#ending-specific-boosts)
-- [Conversations](#conversations)
-- [Cutscenes](#cutscenes)
-- [Practical Applications](#practical-applications)
-
 ## Goddess Questions
 
 Upon starting any fresh file (by selecting "New Game" on the title screen), a cutscene with the Harvest Goddess will play where she tasks the player with saving the town. In this cutscene, she will ask three questions, each with a **positive** response and a **negative** response. These questions are:
@@ -34,7 +24,7 @@ The **positive** response is always the first option, the **negative** always th
 
 Wallace, Woody, Ronald, Parsley, and Martha are not affected by any response pattern, so they always start with 0 affection.
 
-Because the Goddess questions are only available on a fresh file, they can only be used in any% speedruns. The strategy is to give the response pattern that will boost whatever villager is the main target for the ending being attempted, e.g., for any% Horse Race, the **positive** pattern can be used to boost Bob, for any% Endangered Weasel, the **mixed** pattern can be used to boost Gwen, etc.
+Because the Goddess questions are only available on a fresh file, they can only be used in any% speedruns and the first ending completed in an All Endings any% run.
 
 ## Introductions
 
@@ -70,7 +60,7 @@ For a gift intro, the player may choose to hold *any item whatsoever*, whether o
 
 ### Forageables
 
-The standard gift boost in StH is +4. There are very few disliked gifts, so most gifts will give either +2, +4, or +6 (with some exceptions, like Parsley). Forageables are the quickest and best gifts, so they are the go-to strategy in any%, but detailed gift charts can be found here (INSERT LINK). Some basic data on forageable boosts for every villager can be found below.
+The standard gift boost in StH is +4. There are very few disliked gifts, so most gifts will give either +2, +4, or +6 (with some exceptions, like Parsley). Forageables are the quickest and best gifts, so they are the go-to strategy in any%, but detailed gift charts can be found [here](gift-charts.md). Some basic data on forageable boosts for every villager can be found below.
 
 | Villager | Berry | Herb | M. Herb | Flower | Walnut | Mushroom |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -114,20 +104,42 @@ Gift boosts can sometimes be affected by the player's progress through a certain
 
 ## Conversations
 
-Conversation boosts **vary depending on the villager's location**. These locations can be loosely divided between **work** locations and **non-work or "day off"** locations. The general rule of thumb is that work locations give +4, while non-work locations tend to give +5 or +6 (though this is by no means universal). These boosts apply whenever the villager is **stationary** at that location (idly pacing within a small area counts as "stationary"). However, whenever a villager is in transit/walking from one stationary location to another, **the boost is only +2**. So in order to get the most out of the daily conversation boost, it is ideal to talk to a villager before they leave their first stationary location, or wait until they reach a stationary location before talking to them.
+Conversation boosts **vary depending on the villager's location**. These locations can be loosely divided as follows:
+
+* Work: +4
+* Non-work/day off: +5 or +6
+* Walking: +2 (+4 for Ronald)
+
+The **work** boost mainly applies at a villager's most common daytime location; for shopkeepers this might be either inside their respective shop, or nearby (before the shop opens). The **non-work** or "day off" boost is often either +5 or +6, but this is far from universal, and it's best to verify the boosts for each villager individually. A complete chart of all conversation boosts for all villagers can be found here (INSERT LINK).
+
+Both of the standard conversation boosts apply **only when the villager is stationary** (or idly pacing within a set area). Whenever a villager is in transit from one area to another, the **walking** boost is applied instead, and this only counts for +2. As such, it is ideal to talk to a villager before they leave a stationary location, or wait until they reach a stationary location before talking to them.
 
 ### Doubletalks
 
-### Special dialogues
+In general, villagers are limited to one conversation boost per day, but there are some exceptions, though all the details are not fully understood. It seems as though the actual rule is **one stationary boost and one walking boost**, but some testing has shown that even a third boost can be possible in some fringe cases. This tactic is commonly called a **doubletalk**.
 
-There are some instances where a villager will show a special dialogue 
+In practice, it is usually not useful, as a villager typically remains stationary for quite some time before moving to the next location, so waiting there just for an extra +2 walking boost is not worth it. However, if there is natural downtime in a run where a villager could walk past after being talked to earlier in the day, a doubletalk could be free extra affection. In Bluebird, the player must wait until 2pm on two separate days to trigger some required cutscenes, so Louis can get a full stationary convo boost in the morning, then be doubletalked for an extra +2 each day. It's worth noting that the stationary and walking boosts can be done in either order, so a villager could get a walking boost *then* a stationary boost, and vice versa. Also, as far as introductions are concerned, the villager's location, whether stationary or walking, is irrelevant, and the intro mechanics are applied as described above. Doubletalks are still possible after an introduction, but in some cases they seem to apply a unique penalty to the doubletalk in a way that requires more testing.
+
+### Gift/Talk Order
+
+**Non-work** conversation boosts (+5 and +6) are only applied if the villager is **talked before gifting**. Indeed, if the gift precedes the conversation, **the convo boost will revert to +4**. A different (typically shorter) textbox plays as well. This is especially important in an ending like Bluebird, where Louis is only gifted on his days off (for +5 convos), so to fully minimize the number of trips, he is always talked before gifting. For any conversation that is normally +4, there is no affection penalty for gifting first.
+
+Because the conversation text is usually shorter if it follows a gift, this can be used as a small optimization in cases where the convo boost is already +4, or cases where the affection loss is negligible. For example, Gwen's conversation text can be quite long in Endangered Weasel, especially as the ending progresses, so it is best to always gift her before talking, since her go-to location is a standard +4 conversation anyway. Optimizing textboxes is still fairly uncharted territory for StH, but it could hold some potential in the future.
+
+### Special Dialogues and Cutscene Effects
+
+Sometimes a villager will show a special dialogue at certain affection levels, and it may be associated with a larger boost. For example, at 147 affection or higher, Dia will ask the player is they are her friend; responding "Of course" gives +7 and counts for the daily conversation. These seem to be uncommon, however.
+
+In the course of certain endings, villagers may have different dialogue associated with the story. These dialogues seem to have their own associated conversation boosts, so in some cases they can "overwrite" the normal boost for a given location. For example, Gina has a dialogue about the Goddess Dress that will play upon the first conversation after the third cutscene is triggered for that ending. This dialogue always gives +4, regardless of location, so if she is talked outside the Villa for this dialogue, normally a +5 location, it would mean a loss of 1 affection point.
 
 ## Cutscenes
+
+The main purpose of raising affection in StH is to trigger the correct series of cutscenes that lead to the target ending. These cutscenes often give a small affection boost to the target villager(s) as well. It is rarely, if ever, worth it to trigger optional cutscenes just for extra affection, but for routing purposes, cutscene affection can be considered "built in" to the route and should be accounted for. All cutscenes and their associated boosts can be found here (INSERT LINK).
 
 ## Practical Applications
 
 In routing singular any% endings and All Endings any%, the Goddess questions are the first place to start. The strategy is to give the response pattern that will boost whatever villager is the main target for the ending being attempted, e.g., for any% Horse Race, the **positive** pattern can be used to boost Bob, for any% Endangered Weasel, the **mixed** pattern can be used to boost Gwen, etc. In cases where multiple villagers must be gifted, it's best to get the Goddess boost for the villager that will end up requiring the most gifts. The only cases in any% where both target villagers belong to the same response pattern are Cake Contest and Goddess Dress, where Katie and Gina both get +15 for the **negative** pattern and are involved in each other's endings.
 
-
+Small affection differences of +1 or +2 might seem trivial, but since most StH runs involve just gifting and sleeping, the optimization lies in keeping the number of interactions to an absolute minimum. Weed intros, doubletalks, and non-work +5/+6 conversation boosts are a few ways to squeeze out just a few extra affection points, and could be the difference in saving an entire trip.
 
 
