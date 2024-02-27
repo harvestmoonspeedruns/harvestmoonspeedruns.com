@@ -42,7 +42,7 @@ def buildMisc(categories):
     }]
 
 def main():
-    games = [dt.Game(api, game) for game in api.get('series/049rd64v/games')]
+    games = [dt.Game(api, game) for game in api.get('series/049rd64v/games?offset=40')]
 
     gamesData = {}
 
