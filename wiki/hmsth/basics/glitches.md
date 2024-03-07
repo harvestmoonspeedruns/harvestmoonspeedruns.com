@@ -30,4 +30,6 @@ First documented by [crazyberzerker](https://www.youtube.com/watch?v=Zfhh_RjDldQ
 
 ## Chicken off the Farm
 
-This trick was long theorized before finally being pulled off in 2024 by G_heinz
+This trick was long theorized before finally being pulled off in 2024 by [G_heinz](https://www.youtube.com/watch?v=RqXEp2QpxP0) with the use of horse OoB. Demo and DezertPenguin8 later refined the trick, showing that it could be done from in-bounds. Normally, when the player is holding a chicken, there is a kind of barrier around the loading zone leading to town; when approached, a textbox will appear, and the player will be pushed back toward the farm. By getting into certain specific positions right up next to the barrier and pressing R1, the barrier will be circumvented and the load instantly triggered. R1 is normally the button to put something in the rucksack, but the chicken cannot be put in the rucksack, creating this strange interaction. It's not understood why this works, but it's theorized that the R1 trick could be used to trigger other normally inaccessible loading zones, perhaps out of bounds.
+
+The chicken is a +2 spam for almost every villager in the game, making this incredibly powerful for almost every category. A notable exception is Kurt, who for some reason, can only be spammed until 20 affection, meaning that Fishy Story must be done mostly normally.
